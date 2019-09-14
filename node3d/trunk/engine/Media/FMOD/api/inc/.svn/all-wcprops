@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/inc
+END
+wincompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/inc/wincompat.h
+END
+fmod_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/inc/fmod_errors.h
+END
+fmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/inc/fmod.h
+END
+fmoddyn.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/inc/fmoddyn.h
+END

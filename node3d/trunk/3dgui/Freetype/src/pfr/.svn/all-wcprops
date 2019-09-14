@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr
+END
+pfrsbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrsbit.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/module.mk
+END
+pfrobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrobjs.h
+END
+pfrsbit.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrsbit.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/rules.mk
+END
+pfrtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrtypes.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/Jamfile
+END
+pfrload.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrload.c
+END
+pfr.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfr.c
+END
+pfrcmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrcmap.c
+END
+pfrload.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrload.h
+END
+pfrcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrcmap.h
+END
+pfrgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrgload.c
+END
+pfrdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrdrivr.c
+END
+pfrgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrgload.h
+END
+pfrdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrdrivr.h
+END
+pfrobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrobjs.c
+END
+pfrerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/pfr/pfrerror.h
+END

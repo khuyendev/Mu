@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker
+END
+docmaker.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker/docmaker.py
+END
+tohtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker/tohtml.py
+END
+content.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker/content.py
+END
+docbeauty.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker/docbeauty.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker/utils.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker/formatter.py
+END
+sources.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/docmaker/sources.py
+END

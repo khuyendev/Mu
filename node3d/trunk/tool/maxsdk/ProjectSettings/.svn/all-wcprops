@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/ProjectSettings
+END
+AdditionalCompilerOptions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/tool/maxsdk/ProjectSettings/AdditionalCompilerOptions.txt
+END
+AdditionalCompilerOptions64.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/tool/maxsdk/ProjectSettings/AdditionalCompilerOptions64.txt
+END
+AdditionalCompilerOptions.Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/23/trunk/tool/maxsdk/ProjectSettings/AdditionalCompilerOptions.Readme.txt
+END

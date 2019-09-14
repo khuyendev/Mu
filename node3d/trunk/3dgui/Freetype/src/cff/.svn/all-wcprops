@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff
+END
+cffdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffdrivr.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/module.mk
+END
+cffgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffgload.h
+END
+cffobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffobjs.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/rules.mk
+END
+cffobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffobjs.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/Jamfile
+END
+cfftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cfftypes.h
+END
+cffparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffparse.c
+END
+cff.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cff.c
+END
+cffload.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffload.c
+END
+cffparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffparse.h
+END
+cffcmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffcmap.c
+END
+cfferrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cfferrs.h
+END
+cffload.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffload.h
+END
+cffcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffcmap.h
+END
+cfftoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cfftoken.h
+END
+cffdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffdrivr.c
+END
+cffgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/cff/cffgload.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/46/trunk/Server/GGSvr
+END
+GGSvr.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/trunk/Server/GGSvr/GGSvr.h
+END
+CSAuth2.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/Server/GGSvr/CSAuth2.h
+END
+GGSvr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/Server/GGSvr/GGSvr.cpp
+END
+GGSvr.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/GGSvr/GGSvr.vcproj
+END
+CSAuth2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/trunk/Server/GGSvr/CSAuth2.cpp
+END

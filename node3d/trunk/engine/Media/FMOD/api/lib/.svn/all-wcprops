@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/lib
+END
+fmodvc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/lib/fmodvc.lib
+END
+fmodwc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/lib/fmodwc.lib
+END
+fmodlcc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/lib/fmodlcc.lib
+END
+fmod64vc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/lib/fmod64vc.lib
+END
+fmodbc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/lib/fmodbc.lib
+END

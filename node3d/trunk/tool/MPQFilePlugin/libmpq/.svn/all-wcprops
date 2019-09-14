@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/wave.h
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/common.cpp
+END
+huffman.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/huffman.h
+END
+extract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/extract.cpp
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/common.h
+END
+mpq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/mpq.cpp
+END
+explode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/explode.cpp
+END
+wave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/wave.cpp
+END
+mpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/mpq.h
+END
+huffman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/huffman.cpp
+END
+explode.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/libmpq/explode.h
+END

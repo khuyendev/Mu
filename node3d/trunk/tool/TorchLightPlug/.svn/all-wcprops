@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/tool/TorchLightPlug
+END
+TorchLightPlug.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/tool/TorchLightPlug/TorchLightPlug.vcxproj
+END
+TorchLightPlug.def
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/TorchLightPlug/TorchLightPlug.def
+END
+MyPlug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/TorchLightPlug/MyPlug.cpp
+END
+MyPlug.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/TorchLightPlug/MyPlug.h
+END

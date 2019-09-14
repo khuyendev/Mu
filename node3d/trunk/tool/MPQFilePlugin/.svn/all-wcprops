@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin
+END
+mpq_libmpq.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/mpq_libmpq.h
+END
+mpq_libmpq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/20/trunk/tool/MPQFilePlugin/mpq_libmpq.cpp
+END

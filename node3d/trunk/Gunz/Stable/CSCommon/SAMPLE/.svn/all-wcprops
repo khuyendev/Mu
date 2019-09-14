@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE
+END
+sample1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/sample1.xml
+END
+sample2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/sample2.xml
+END
+XMLSample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/XMLSample.cpp
+END
+XMLSample.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/XMLSample.vcproj
+END
+new.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/new.xml
+END
+MCharacter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/MCharacter.cpp
+END
+ChrTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/ChrTest.xml
+END
+XMLSample.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/XMLSample.sln
+END
+MCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/CSCommon/SAMPLE/MCharacter.h
+END

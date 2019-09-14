@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame
+END
+IGameProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameProperty.h
+END
+IXrefManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IXrefManager.h
+END
+IConversionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IConversionManager.h
+END
+IGameObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameObject.h
+END
+IGameError.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameError.h
+END
+IGameStd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameStd.h
+END
+IGameFX.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameFX.h
+END
+IGameModifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameModifier.h
+END
+IGameMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameMaterial.h
+END
+IGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGame.h
+END
+IGameControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameControl.h
+END
+IGameRenderedSurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameRenderedSurface.h
+END
+IGameType.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameType.h
+END
+IGameExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGame/IGameExport.h
+END

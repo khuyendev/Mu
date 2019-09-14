@@ -1,0 +1,5 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  Audio.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1445,5): warning MSB8012: TargetPath(D:\Source Client D3D9\node3d\trunk\engine\Debug\Audio.lib) does not match the Library's OutputFile property value (D:\Source Client D3D9\node3d\trunk\engine\lib\Audiod.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1447,5): warning MSB8012: TargetName(Audio) does not match the Library's OutputFile property value (Audiod). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Audio.vcxproj -> D:\Source Client D3D9\node3d\trunk\engine\Debug\Audio.lib

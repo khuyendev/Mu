@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter
+END
+exporter.CPP
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/exporter.CPP
+END
+BatchExporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BatchExporter.cpp
+END
+exporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/exporter.h
+END
+CMError.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/CMError.h
+END
+Export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/Export.cpp
+END
+rtexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/rtexture.cpp
+END
+BatchExporter.def
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BatchExporter.def
+END
+BEWorkSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BEWorkSheet.h
+END
+Image24.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/Image24.cpp
+END
+BECommandProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BECommandProcessor.h
+END
+AnimConstructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/AnimConstructor.cpp
+END
+BatchExporter.rc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BatchExporter.rc
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/resource.h
+END
+rutils_max.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/rutils_max.h
+END
+CMErrorDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/CMErrorDef.h
+END
+DllEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/DllEntry.cpp
+END
+RSMObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/RSMObject.h
+END
+OpenDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/OpenDlg.h
+END
+BELog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BELog.h
+END
+RSScanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/RSScanner.cpp
+END
+Dib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/Dib.h
+END
+RSMaterialList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/RSMaterialList.h
+END
+BEParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BEParser.h
+END
+BatchExporter.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BatchExporter.dsp
+END
+BatchExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BatchExporter.h
+END
+BEWorkSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BEWorkSheet.cpp
+END
+BECommandProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BECommandProcessor.cpp
+END
+rutils_max.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/rutils_max.cpp
+END
+rtexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/rtexture.h
+END
+OpenDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/OpenDlg.cpp
+END
+BELog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BELog.cpp
+END
+RSMObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/RSMObject.cpp
+END
+Image24.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/Image24.h
+END
+Dib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/Dib.cpp
+END
+AnimConstructor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/AnimConstructor.h
+END
+RSMaterialList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/RSMaterialList.cpp
+END
+RSScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/RSScanner.h
+END
+BEParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/RSBatchExporter/BEParser.cpp
+END

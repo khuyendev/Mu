@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/328/trunk/shared/Common/src
+END
+diskid32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/shared/Common/src/diskid32.cpp
+END
+IniFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/328/trunk/shared/Common/src/IniFile.cpp
+END
+ThreadBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/shared/Common/src/ThreadBase.cpp
+END
+NetStringPacker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/shared/Common/src/NetStringPacker.cpp
+END
+RegData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/shared/Common/src/RegData.cpp
+END
+RC5_321216.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/shared/Common/src/RC5_321216.cpp
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/291/trunk/shared/Common/src/common.cpp
+END

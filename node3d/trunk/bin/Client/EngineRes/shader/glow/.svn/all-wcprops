@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/362/trunk/bin/Client/EngineRes/shader/glow
+END
+fire.fx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/343/trunk/bin/Client/EngineRes/shader/glow/fire.fx
+END
+shared.fx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/362/trunk/bin/Client/EngineRes/shader/glow/shared.fx
+END
+smoke.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/351/trunk/bin/Client/EngineRes/shader/glow/smoke.fx
+END
+emissiveFlash.fx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/glow/emissiveFlash.fx
+END
+emissive.fx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/glow/emissive.fx
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/winfonts
+END
+winfnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/winfonts/winfnt.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/winfonts/Jamfile
+END
+fnterrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/winfonts/fnterrs.h
+END
+winfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/winfonts/winfnt.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/winfonts/module.mk
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/winfonts/rules.mk
+END

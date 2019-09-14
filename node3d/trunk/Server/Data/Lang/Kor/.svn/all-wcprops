@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor
+END
+itemsetoption(Kor).txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/itemsetoption(Kor).txt
+END
+message_kor.wtf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/message_kor.wtf
+END
+commonloc.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/commonloc.cfg
+END
+itemsettype(Kor).txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/itemsettype(Kor).txt
+END
+CheckSum.dat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/CheckSum.dat
+END
+Skill(kor).txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/Skill(kor).txt
+END
+Item(Kor).txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/Item(Kor).txt
+END
+Quest(Kor).txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/Data/Lang/Kor/Quest(Kor).txt
+END

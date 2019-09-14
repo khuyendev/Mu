@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral
+END
+cxr_decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/cxr_decoder.cpp
+END
+MMatchItem.cxr
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/MMatchItem.cxr
+END
+StringLiteral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/StringLiteral.cpp
+END
+StringLiteral.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/StringLiteral.vcproj
+END
+MMatchBuff.cxr
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/MMatchBuff.cxr
+END
+cxr_MMatchItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/cxr_MMatchItem.h
+END
+test.cxr
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/test.cxr
+END
+설명.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/%EC%84%A4%EB%AA%85.txt
+END
+cxr_inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/cxr_inc.h
+END
+cxr_MMatchBuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/cxr_MMatchBuff.h
+END
+cxr_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/246/trunk/Gunz/Stable/StringLiteral/cxr_test.h
+END

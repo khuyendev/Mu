@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/383/trunk/3dgui/lib
+END
+TextRender.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/293/trunk/3dgui/lib/TextRender.lib
+END
+tinyxml.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/293/trunk/3dgui/lib/tinyxml.lib
+END
+tinyxmld.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/293/trunk/3dgui/lib/tinyxmld.lib
+END
+TextRenderd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/293/trunk/3dgui/lib/TextRenderd.lib
+END
+3DGUI.lib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/382/trunk/3dgui/lib/3DGUI.lib
+END
+3DGUId.lib
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/383/trunk/3dgui/lib/3DGUId.lib
+END
+Freetype.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/293/trunk/3dgui/lib/Freetype.lib
+END

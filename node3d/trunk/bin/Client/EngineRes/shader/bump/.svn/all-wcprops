@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/362/trunk/bin/Client/EngineRes/shader/bump
+END
+ParSpaceBump.fx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/bump/ParSpaceBump.fx
+END
+bump.fx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/bump/bump.fx
+END
+shared.fx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/362/trunk/bin/Client/EngineRes/shader/bump/shared.fx
+END

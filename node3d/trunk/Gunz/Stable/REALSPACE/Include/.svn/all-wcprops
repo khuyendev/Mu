@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include
+END
+D3DDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/D3DDebug.h
+END
+Profiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/Profiler.h
+END
+rtexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/rtexture.h
+END
+RSSpotLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSSpotLight.h
+END
+rutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/rutils.h
+END
+ASSMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/ASSMap.h
+END
+RSPointLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSPointLight.h
+END
+Image24.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/Image24.h
+END
+RSCameraList.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSCameraList.h
+END
+RSBmFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSBmFont.h
+END
+RSConsoleRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSConsoleRenderer.h
+END
+RSVisualObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSVisualObject.h
+END
+RSEnvironmentObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSEnvironmentObject.h
+END
+RSAnimationInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSAnimationInfo.h
+END
+RSGlobal_Dll.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSGlobal_Dll.h
+END
+RSMMX.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSMMX.h
+END
+ASSSchemeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/ASSSchemeManager.h
+END
+RSObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSObject.h
+END
+RSFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSFont.h
+END
+RSDecal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSDecal.h
+END
+RSBspObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSBspObject.h
+END
+RsMovie.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RsMovie.h
+END
+RSImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSImage.h
+END
+RSDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSDebug.h
+END
+RSMaterialManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSMaterialManager.h
+END
+Dib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/Dib.h
+END
+RSMaterialList.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSMaterialList.h
+END
+RSGDIFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSGDIFont.h
+END
+RealSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RealSpace.h
+END
+rutilso.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/rutilso.h
+END
+RSutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSutils.h
+END
+RSBase3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSBase3D.h
+END
+RSMVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSMVersion.h
+END
+rquaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/rquaternion.h
+END
+rstypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/rstypes.h
+END
+RSParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSParticleSystem.h
+END
+RSD3D.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Include/RSD3D.H
+END

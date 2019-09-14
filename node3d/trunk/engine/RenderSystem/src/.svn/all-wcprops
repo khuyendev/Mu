@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/387/trunk/engine/RenderSystem/src
+END
+HardwareBufferMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/233/trunk/engine/RenderSystem/src/HardwareBufferMgr.cpp
+END
+HardwareIndexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/engine/RenderSystem/src/HardwareIndexBuffer.cpp
+END
+Graphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/387/trunk/engine/RenderSystem/src/Graphics.cpp
+END
+Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/363/trunk/engine/RenderSystem/src/Texture.cpp
+END
+ddslib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/engine/RenderSystem/src/ddslib.cpp
+END
+Root.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/316/trunk/engine/RenderSystem/src/Root.cpp
+END
+VertexDeclaration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/346/trunk/engine/RenderSystem/src/VertexDeclaration.cpp
+END
+RenderSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/347/trunk/engine/RenderSystem/src/RenderSystem.cpp
+END
+HardwareVertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/engine/RenderSystem/src/HardwareVertexBuffer.cpp
+END
+TextureMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/363/trunk/engine/RenderSystem/src/TextureMgr.cpp
+END
+RenderWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/engine/RenderSystem/src/RenderWindow.cpp
+END
+VB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/engine/RenderSystem/src/VB.cpp
+END
+AniTex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/233/trunk/engine/RenderSystem/src/AniTex.cpp
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base
+END
+ftgxval.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftgxval.c
+END
+ftotval.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftotval.c
+END
+ftdebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftdebug.c
+END
+ftpfr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftpfr.c
+END
+ftgasp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftgasp.c
+END
+ftdbgmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftdbgmem.c
+END
+ftmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftmac.c
+END
+ftoutln.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftoutln.c
+END
+ftcalc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftcalc.c
+END
+ftinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftinit.c
+END
+ftnames.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftnames.c
+END
+ftsynth.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftsynth.c
+END
+ftwinfnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftwinfnt.c
+END
+ftgloadr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftgloadr.c
+END
+ftmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftmm.c
+END
+ftbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftbase.c
+END
+ftutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftutil.c
+END
+ftglyph.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftglyph.c
+END
+ftrfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftrfork.c
+END
+ftsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftsystem.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/rules.mk
+END
+ftbbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftbbox.c
+END
+ftxf86.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftxf86.c
+END
+ftpatent.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftpatent.c
+END
+ftstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftstream.c
+END
+ftbdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftbdf.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/Jamfile
+END
+ftobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftobjs.c
+END
+ftlcdfil.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftlcdfil.c
+END
+fttype1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/fttype1.c
+END
+fttrigon.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/fttrigon.c
+END
+ftstroke.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftstroke.c
+END
+ftapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftapi.c
+END
+ftbitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/base/ftbitmap.c
+END

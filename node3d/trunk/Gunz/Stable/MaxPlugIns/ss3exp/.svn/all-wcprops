@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp
+END
+DllEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/DllEntry.cpp
+END
+RSMObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/RSMObject.h
+END
+Image24.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/Image24.h
+END
+BELog.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/BELog.h
+END
+Dib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/Dib.cpp
+END
+RSMaterialList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/RSMaterialList.cpp
+END
+AnimConstructor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/AnimConstructor.h
+END
+FileInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/FileInfo.h
+END
+ss3exp.def
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/ss3exp.def
+END
+Dib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/Dib.h
+END
+RSMaterialList.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/RSMaterialList.h
+END
+ss3exp.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/ss3exp.rc
+END
+exporter.CPP
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/exporter.CPP
+END
+exporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/exporter.h
+END
+Export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/Export.cpp
+END
+rtexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/rtexture.cpp
+END
+ss3exp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/ss3exp.cpp
+END
+rtexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/rtexture.h
+END
+rutils_max.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/rutils_max.cpp
+END
+BELog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/BELog.cpp
+END
+RSMObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/RSMObject.cpp
+END
+Image24.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/Image24.cpp
+END
+ss3exp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/ss3exp.dsp
+END
+AnimConstructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/AnimConstructor.cpp
+END
+ss3exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/ss3exp.h
+END
+FileInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/FileInfo.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/resource.h
+END
+rutils_max.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/ss3exp/rutils_max.h
+END

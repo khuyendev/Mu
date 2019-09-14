@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/295/trunk/shared/IO/FileIO/include
+END
+CSVFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/295/trunk/shared/IO/FileIO/include/CSVFile.h
+END
+StringNodeFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/include/StringNodeFile.h
+END
+LumpFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/include/LumpFile.h
+END
+NodeData.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/include/NodeData.h
+END
+IORead.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/include/IORead.h
+END
+MemoryStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/include/MemoryStream.h
+END
+FileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/include/FileSystem.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/46/trunk/Server/Data/Monster
+END
+MonsterSetBase.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterSetBase.txt
+END
+MonsterAIGroup.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterAIGroup.txt
+END
+MonsterSetBase_Kudo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterSetBase_Kudo.txt
+END
+MonsterSkillElement.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterSkillElement.txt
+END
+MonsterAIUnit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterAIUnit.txt
+END
+MonsterSetBase_CS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterSetBase_CS.txt
+END
+MonsterAutomata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterAutomata.txt
+END
+MonsterSkill.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterSkill.txt
+END
+MonsterSkillUnit.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterSkillUnit.txt
+END
+Monster.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/Data/Monster/Monster.txt
+END
+MonsterAIRule.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterAIRule.txt
+END
+MonsterAIElement.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/Data/Monster/MonsterAIElement.txt
+END

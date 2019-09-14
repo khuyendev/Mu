@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/ReadMe.txt
+END
+BuildDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/BuildDlg.h
+END
+MainFrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MainFrm.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/stdafx.h
+END
+MUpdateView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdateView.h
+END
+MFileTransfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MFileTransfer.cpp
+END
+MUIObserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUIObserver.cpp
+END
+MUpdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdate.h
+END
+MUpdateMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdateMgr.cpp
+END
+MUIObserverTransDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUIObserverTransDlg.h
+END
+MVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MVersion.h
+END
+UserWinMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/UserWinMsg.h
+END
+UpdateBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/UpdateBar.h
+END
+MPatchInfoLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MPatchInfoLoader.cpp
+END
+MFTCmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MFTCmd.h
+END
+TransferDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/TransferDlg.h
+END
+MUpdate.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdate.rc
+END
+MPatchNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MPatchNode.cpp
+END
+MPatchBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MPatchBuilder.cpp
+END
+MFTNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MFTNotify.h
+END
+BuildDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/BuildDlg.cpp
+END
+MSafeThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MSafeThread.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/stdafx.cpp
+END
+MainFrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MainFrm.cpp
+END
+MUpdateDoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdateDoc.h
+END
+MUpdateView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdateView.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/resource.h
+END
+MUpdate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdate.cpp
+END
+MUIObserverTransDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUIObserverTransDlg.cpp
+END
+MVersion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MVersion.cpp
+END
+MFileTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MFileTransfer.h
+END
+MUIObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUIObserver.h
+END
+UpdateBar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/UpdateBar.cpp
+END
+MUpdateMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdateMgr.h
+END
+TransferDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/TransferDlg.cpp
+END
+MUpdate.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdate.vcproj
+END
+MSafeThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MSafeThread.cpp
+END
+MPatchInfoLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MPatchInfoLoader.h
+END
+MUpdateDoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MUpdateDoc.cpp
+END
+MPatchNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MPatchNode.h
+END
+MPatchBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/MUpdate/MPatchBuilder.h
+END

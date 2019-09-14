@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools
+END
+test_trig.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/test_trig.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/Jamfile
+END
+test_bbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/test_bbox.c
+END
+cordic.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/cordic.py
+END
+glnames.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/glnames.py
+END
+apinames.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/apinames.c
+END
+test_afm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/tools/test_afm.c
+END

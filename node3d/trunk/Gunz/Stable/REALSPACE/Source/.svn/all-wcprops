@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source
+END
+RSDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSDebug.cpp
+END
+RSMaterialManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSMaterialManager.cpp
+END
+Dib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/Dib.cpp
+END
+RSGDIFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSGDIFont.cpp
+END
+RealSpace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RealSpace.cpp
+END
+RSMaterialList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSMaterialList.cpp
+END
+RSBase3D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSBase3D.cpp
+END
+rquaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/rquaternion.cpp
+END
+rutils.obj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/rutils.obj
+END
+RSParticleSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSParticleSystem.cpp
+END
+RSD3D.CPP
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSD3D.CPP
+END
+D3DDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/D3DDebug.cpp
+END
+Profiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/Profiler.cpp
+END
+rtexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/rtexture.cpp
+END
+rutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/rutils.cpp
+END
+RSSpotLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSSpotLight.cpp
+END
+ASSMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/ASSMap.cpp
+END
+RSPointLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSPointLight.cpp
+END
+getdxver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/getdxver.cpp
+END
+Image24.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/Image24.cpp
+END
+RSCameraList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSCameraList.cpp
+END
+RSBmFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSBmFont.cpp
+END
+RSConsoleRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSConsoleRenderer.cpp
+END
+RSVisualObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSVisualObject.cpp
+END
+rutilso.asm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/rutilso.asm
+END
+RSAnimationInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSAnimationInfo.cpp
+END
+RSEnvironmentObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSEnvironmentObject.cpp
+END
+RSGlobal_Dll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSGlobal_Dll.cpp
+END
+RSUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSUtils.cpp
+END
+RSMMX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSMMX.cpp
+END
+ASSSchemeManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/ASSSchemeManager.cpp
+END
+RSTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSTypes.cpp
+END
+RSFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSFont.cpp
+END
+RSObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSObject.cpp
+END
+RSDecal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSDecal.cpp
+END
+RSBspObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSBspObject.cpp
+END
+rutils.asm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/rutils.asm
+END
+RsPrint-e.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RsPrint-e.cpp
+END
+RsMovie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RsMovie.cpp
+END
+RSImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RSImage.cpp
+END
+RUTILSO.OBJ
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/REALSPACE/Source/RUTILSO.OBJ
+END

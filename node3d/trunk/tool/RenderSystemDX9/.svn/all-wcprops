@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/386/trunk/tool/RenderSystemDX9
+END
+D3D9Shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/331/trunk/tool/RenderSystemDX9/D3D9Shader.h
+END
+DXUTmisc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/187/trunk/tool/RenderSystemDX9/DXUTmisc.cpp
+END
+D3D9RenderWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/187/trunk/tool/RenderSystemDX9/D3D9RenderWindow.h
+END
+D3D9HardwareIndexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/D3D9HardwareIndexBuffer.cpp
+END
+DXUTmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/315/trunk/tool/RenderSystemDX9/DXUTmisc.h
+END
+D3D9VertexDeclaration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/D3D9VertexDeclaration.cpp
+END
+D3D9RenderSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/385/trunk/tool/RenderSystemDX9/D3D9RenderSystem.cpp
+END
+D3D9HardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/D3D9HardwareIndexBuffer.h
+END
+D3D9HardwareVertexBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/D3D9HardwareVertexBuffer.cpp
+END
+D3D9VertexDeclaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/D3D9VertexDeclaration.h
+END
+D3D9RenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/366/trunk/tool/RenderSystemDX9/D3D9RenderSystem.h
+END
+D3D9HardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/D3D9HardwareVertexBuffer.h
+END
+D3D9RenderSystemCommon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/292/trunk/tool/RenderSystemDX9/D3D9RenderSystemCommon.cpp
+END
+RenderSystemDX9.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/187/trunk/tool/RenderSystemDX9/RenderSystemDX9.vcxproj
+END
+D3D9Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/386/trunk/tool/RenderSystemDX9/D3D9Texture.cpp
+END
+DXUT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/187/trunk/tool/RenderSystemDX9/DXUT.cpp
+END
+RenderSystemDX9.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/RenderSystemDX9.def
+END
+D3D9RenderSystemCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/D3D9RenderSystemCommon.h
+END
+DXUT.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/187/trunk/tool/RenderSystemDX9/DXUT.h
+END
+D3D9Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/363/trunk/tool/RenderSystemDX9/D3D9Texture.h
+END
+D3D9Shader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/331/trunk/tool/RenderSystemDX9/D3D9Shader.cpp
+END
+dxstdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/187/trunk/tool/RenderSystemDX9/dxstdafx.h
+END
+D3D9RenderWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/304/trunk/tool/RenderSystemDX9/D3D9RenderWindow.cpp
+END

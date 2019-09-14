@@ -1,0 +1,2933 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz
+END
+ZWater.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWater.h
+END
+ZCharacterViewList.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterViewList.h
+END
+ZStageInfoBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStageInfoBox.cpp
+END
+ZWeapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWeapon.cpp
+END
+ZRadar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRadar.cpp
+END
+ZModule_ColdDamage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_ColdDamage.h
+END
+ZTaskManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTaskManager.cpp
+END
+ZMiniMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMiniMap.h
+END
+ZFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZFrame.h
+END
+ZBirdDummyClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBirdDummyClient.h
+END
+ZClothEmblem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZClothEmblem.h
+END
+mlog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/mlog.txt
+END
+ZCrossHair.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCrossHair.h
+END
+ZRuleDuelTournament.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleDuelTournament.h
+END
+ZGameClient_OnCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameClient_OnCommand.cpp
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/stdafx.h
+END
+Mint4R2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Mint4R2.cpp
+END
+ZEffectAniMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectAniMesh.h
+END
+ZConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZConsole.h
+END
+ZButton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZButton.cpp
+END
+ZWeaponScreenEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWeaponScreenEffect.h
+END
+ZTask_AttackRange.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_AttackRange.h
+END
+ZNetmarble.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetmarble.h
+END
+ZModule_QuestStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_QuestStatus.h
+END
+ZTask_Delay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_Delay.cpp
+END
+ZStringResManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStringResManager.h
+END
+ZRuleBerserker.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleBerserker.h
+END
+ZActorController.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActorController.h
+END
+ZClanListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZClanListBox.cpp
+END
+ZLoading.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLoading.h
+END
+ZClan.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZClan.h
+END
+ZGameClient_Ladder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameClient_Ladder.cpp
+END
+ZScoreBoard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScoreBoard.cpp
+END
+ZSkyBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSkyBox.h
+END
+ZChat_Cmds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChat_Cmds.cpp
+END
+ZGameInterface_OnCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameInterface_OnCommand.cpp
+END
+ZMyQuestItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyQuestItem.cpp
+END
+ZBehavior_Attack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Attack.cpp
+END
+ZEffectManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectManager.cpp
+END
+ZAI_Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZAI_Base.h
+END
+ZCharacterObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterObject.h
+END
+skin.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/skin.vsh
+END
+ZCombatMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatMenu.cpp
+END
+ZPost.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPost.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/main.cpp
+END
+ZInitialLoading.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInitialLoading.h
+END
+ZLanguageConf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLanguageConf.h
+END
+ZShopEquipInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipInterface.cpp
+END
+ZGameInput_Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameInput_Debug.cpp
+END
+ZInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInput.h
+END
+ZModule_Resistance.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_Resistance.h
+END
+ZEffectBulletMarkList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBulletMarkList.cpp
+END
+ZInterfaceListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInterfaceListener.h
+END
+Gunz.rc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Gunz.rc
+END
+ZSurvival.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSurvival.cpp
+END
+ZActorController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActorController.cpp
+END
+ZRuleBerserker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleBerserker.cpp
+END
+ZEnemy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEnemy.cpp
+END
+ZButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZButton.h
+END
+ZActorSound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActorSound.cpp
+END
+ZRuleDuel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleDuel.cpp
+END
+ZEmblemInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEmblemInterface.cpp
+END
+resource2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/resource2.h
+END
+ZMessageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMessageManager.h
+END
+ZEnvObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEnvObject.h
+END
+ZTips.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTips.h
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/license.txt
+END
+ZNHN_USA_Report.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNHN_USA_Report.cpp
+END
+ZPlayerMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerMenu.h
+END
+Physics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Physics.cpp
+END
+ZScoreBoard.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScoreBoard.h
+END
+ZStageInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStageInterface.h
+END
+ZStencilLight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStencilLight.cpp
+END
+ZNHN_USA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNHN_USA.cpp
+END
+ZBaseQuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBaseQuest.h
+END
+ZPlayerSelectListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerSelectListBox.cpp
+END
+ZCharacterBuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterBuff.h
+END
+ZInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInterface.h
+END
+ZObjectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZObjectManager.h
+END
+ZQuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZQuest.h
+END
+CheckReturnCallStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/CheckReturnCallStack.h
+END
+ZMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMap.cpp
+END
+ZUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZUtil.cpp
+END
+ZActorAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActorAnimation.h
+END
+ZLocaleDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLocaleDefine.h
+END
+ZTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTimer.cpp
+END
+ZSurvival.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSurvival.h
+END
+ZEffectBulletMarkList.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBulletMarkList.h
+END
+ZBehavior_Script.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Script.cpp
+END
+ZStageInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStageInterface.cpp
+END
+ZFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZFile.h
+END
+ZModule_ColdDamage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_ColdDamage.cpp
+END
+ZMapListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMapListBox.h
+END
+ZObserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZObserver.cpp
+END
+ZPlayerList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerList.cpp
+END
+Water.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Water.cpp
+END
+ZScreenDebugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScreenDebugger.h
+END
+ZModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule.h
+END
+ZDirectInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZDirectInput.cpp
+END
+ZReportAbuse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZReportAbuse.cpp
+END
+ZCharacterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterManager.h
+END
+ZCrossHair.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCrossHair.cpp
+END
+ZModule_FireDamage.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_FireDamage.h
+END
+ZGameInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameInput.h
+END
+PrivateKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/PrivateKey.h
+END
+ZMsgBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMsgBox.cpp
+END
+ZNHN_USA.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNHN_USA.h
+END
+ZTask_AttackMelee.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_AttackMelee.cpp
+END
+ZPlayerListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerListBox.cpp
+END
+ZRuleTraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleTraining.cpp
+END
+ZSoundFMod.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSoundFMod.h
+END
+ZInterfaceBackground.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInterfaceBackground.h
+END
+ZCommandUDPHackShield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCommandUDPHackShield.cpp
+END
+ZNPCInfoFromserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNPCInfoFromserver.cpp
+END
+ZPrerequisites.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPrerequisites.h
+END
+ZShopEquipItemConfirm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipItemConfirm.cpp
+END
+Mint4Gunz.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Mint4Gunz.h
+END
+ZObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZObject.h
+END
+ZEffectBillboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBillboard.h
+END
+ZActor.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActor.h
+END
+ZGameClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameClient.h
+END
+ZClan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZClan.cpp
+END
+ZLoading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLoading.cpp
+END
+ZChat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChat.cpp
+END
+ZEffectGunFire.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectGunFire.h
+END
+ZBmNumLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBmNumLabel.h
+END
+ZBandiCapturer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBandiCapturer.cpp
+END
+ZScreenDebugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScreenDebugger.cpp
+END
+ZPost.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPost.cpp
+END
+ZNHN_USA_Poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNHN_USA_Poll.h
+END
+ZMeshView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMeshView.cpp
+END
+ZClanListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZClanListBox.h
+END
+ZCombatQuestScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatQuestScreen.cpp
+END
+ZBehavior_Script.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Script.h
+END
+ZMyBuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyBuff.h
+END
+ZCombatMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatMenu.h
+END
+ZQuestMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZQuestMap.cpp
+END
+ZLocatorList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLocatorList.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/main.h
+END
+ZTask_Skill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_Skill.cpp
+END
+ZReportAbuse.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZReportAbuse.h
+END
+ZPostLocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPostLocal.cpp
+END
+ZActionDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActionDef.h
+END
+ZGameGuard.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameGuard.h
+END
+ZItemDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemDesc.h
+END
+Gunz.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Gunz.sln
+END
+ZNetmarbleJP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetmarbleJP.cpp
+END
+ZChatCmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChatCmd.cpp
+END
+ZModule_Resistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_Resistance.cpp
+END
+ZRuleAssassinate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleAssassinate.cpp
+END
+ZServerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZServerView.h
+END
+ZGameAction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameAction.cpp
+END
+ZConfiguration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZConfiguration.cpp
+END
+ZModuleID.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModuleID.h
+END
+ZRuleTraining.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleTraining.h
+END
+ZCombatChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatChat.h
+END
+ZAniEventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZAniEventHandler.h
+END
+ZEffectGunFire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectGunFire.cpp
+END
+ZEffectStaticMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectStaticMesh.cpp
+END
+ZTask_MoveToPos.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_MoveToPos.h
+END
+ZInterfaceItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInterfaceItem.h
+END
+ZEffectBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBase.cpp
+END
+ZEmblemInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEmblemInterface.h
+END
+upnp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/upnp.cpp
+END
+ZBandiCapturer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBandiCapturer.h
+END
+ZModule_LightningDamage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_LightningDamage.h
+END
+ZGameGuard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameGuard.cpp
+END
+fmod_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/fmod_errors.h
+END
+ZPlayerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerManager.h
+END
+ZCharacterSelectView.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterSelectView.h
+END
+ZWeapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWeapon.h
+END
+ZRadar.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRadar.h
+END
+ZRuleDuelTournament.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleDuelTournament.cpp
+END
+ZWeaponMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWeaponMgr.cpp
+END
+ZMyItemList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyItemList.cpp
+END
+ZModule_HPAP.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_HPAP.h
+END
+ZRuleGladiator.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleGladiator.h
+END
+ZNetCharacter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetCharacter.cpp
+END
+ZChannelRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChannelRule.h
+END
+ZWeaponScreenEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWeaponScreenEffect.cpp
+END
+ZTask_AttackRange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_AttackRange.cpp
+END
+ZNetmarbleJP.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetmarbleJP.h
+END
+ZChatCmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChatCmd.h
+END
+ZGame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGame.cpp
+END
+ZWorldItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWorldItem.h
+END
+SecurityTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/SecurityTest.h
+END
+ZSoundEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSoundEngine.h
+END
+ZItemMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemMenu.cpp
+END
+ZMeshViewList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMeshViewList.cpp
+END
+ZTaskID.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTaskID.h
+END
+ZChat_CmdID.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChat_CmdID.h
+END
+ZIDLResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZIDLResource.h
+END
+ZModule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule.cpp
+END
+ZGameConst.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameConst.h
+END
+ZOptionInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZOptionInterface.cpp
+END
+ZTaskBase_Attack.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTaskBase_Attack.h
+END
+ZCharacterView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterView.h
+END
+ZHelpScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZHelpScreen.h
+END
+ZDirectInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZDirectInput.h
+END
+NATUPnP.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/NATUPnP.h
+END
+ZApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZApplication.cpp
+END
+ZRuleSurvival.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleSurvival.cpp
+END
+ZLocale.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLocale.h
+END
+Mint4Gunz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Mint4Gunz.cpp
+END
+ZRangeWeaponHitDice.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRangeWeaponHitDice.h
+END
+ZInterfaceListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInterfaceListener.cpp
+END
+ZRule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRule.cpp
+END
+ZBitmapManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBitmapManager.cpp
+END
+ZSecurity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSecurity.cpp
+END
+ZEffectLightFragment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectLightFragment.cpp
+END
+ZNetCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetCharacter.h
+END
+ZEffectMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectMesh.cpp
+END
+Gunz.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Gunz.vcproj
+END
+ZBirdDummyAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBirdDummyAI.h
+END
+ZMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMessages.h
+END
+ZShopEquipItemConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipItemConfirm.h
+END
+ZBehavior_Patrol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Patrol.cpp
+END
+ZMapDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMapDesc.h
+END
+ZProfiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZProfiler.cpp
+END
+ZSkill.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSkill.h
+END
+ZActorSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActorSound.h
+END
+ZRuleDuel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleDuel.h
+END
+ZMeshViewList.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMeshViewList.h
+END
+ZItemMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemMenu.h
+END
+ZModule_HealOverTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_HealOverTime.cpp
+END
+ZActionKey.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActionKey.h
+END
+ZWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWorld.h
+END
+ZScreenEffectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScreenEffectManager.h
+END
+ZItemDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemDesc.cpp
+END
+ZStageInfoBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStageInfoBox.h
+END
+ZStencilLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStencilLight.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/stdafx.cpp
+END
+ZGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGlobal.cpp
+END
+ZTask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/resource.h
+END
+ZBehavior.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior.h
+END
+ZCombatChat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatChat.cpp
+END
+ZPlayerSelectListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerSelectListBox.h
+END
+ZApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZApplication.h
+END
+ZBaseAuthInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBaseAuthInfo.cpp
+END
+ZRuleSurvival.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleSurvival.h
+END
+ZTestGame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTestGame.cpp
+END
+ZModule_PoisonDamage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_PoisonDamage.cpp
+END
+ZMapDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMapDesc.cpp
+END
+ZGameTypeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameTypeList.h
+END
+ZQuestGameInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZQuestGameInfo.h
+END
+ZTask_MoveToPos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_MoveToPos.cpp
+END
+ZSkyBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSkyBox.cpp
+END
+ZCountDown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCountDown.cpp
+END
+ZRoomListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRoomListBox.cpp
+END
+ZShopEquipListbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipListbox.cpp
+END
+ZTask_Delay.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_Delay.h
+END
+ZInitialLoading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInitialLoading.cpp
+END
+ZCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCamera.cpp
+END
+ZModule_Movable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_Movable.cpp
+END
+ZCombatInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatInterface.h
+END
+ZCommandTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCommandTable.h
+END
+ZModule_HPAP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_HPAP.cpp
+END
+VersionNo.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/VersionNo.h
+END
+ZSoundFMod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSoundFMod.cpp
+END
+ZInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInput.cpp
+END
+ZStageSetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStageSetting.cpp
+END
+ZMyInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyInfo.cpp
+END
+ZEffectFlashBang.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectFlashBang.cpp
+END
+ZTask_AttackMelee.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_AttackMelee.h
+END
+ZPlayerListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerListBox.h
+END
+ZObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZObject.cpp
+END
+ZCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCanvas.cpp
+END
+SecurityTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/SecurityTest.cpp
+END
+ZBmNumLabel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBmNumLabel.cpp
+END
+ZEnvObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEnvObject.cpp
+END
+ZMessageManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMessageManager.cpp
+END
+ZTips.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTips.cpp
+END
+ZScoreListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScoreListBox.cpp
+END
+ZModule_PoisonDamage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_PoisonDamage.h
+END
+ZGameOnJPAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameOnJPAuth.cpp
+END
+ZEffectBulletMark.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBulletMark.h
+END
+icon1_Brz.ico
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/icon1_Brz.ico
+END
+ZGameInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameInterface.cpp
+END
+ZToolTip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZToolTip.cpp
+END
+ZNetRepository.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetRepository.h
+END
+Physics.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Physics.h
+END
+ZCharacterBuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterBuff.cpp
+END
+ZMatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMatch.h
+END
+ZReplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZReplay.h
+END
+ZItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItem.h
+END
+ZVoteInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZVoteInterface.h
+END
+icon1.ico
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/icon1.ico
+END
+ZFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZFile.cpp
+END
+ZCanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCanvas.h
+END
+ZEquipmentListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEquipmentListBox.h
+END
+ZWorldManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWorldManager.cpp
+END
+ZTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTimer.h
+END
+ZGambleItemDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGambleItemDefine.h
+END
+ZEffectStaticMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectStaticMesh.h
+END
+ZProfiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZProfiler.h
+END
+ZCharacterManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterManager.cpp
+END
+ZRuleQuest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleQuest.cpp
+END
+MEmblemMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/MEmblemMgr.cpp
+END
+ZDuelTournamentRankingListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZDuelTournamentRankingListBox.h
+END
+ZReplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZReplay.cpp
+END
+ZMatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMatch.cpp
+END
+ZEffectManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectManager.h
+END
+ZPlayerList.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerList.h
+END
+Water.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Water.h
+END
+ZRuleGladiator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleGladiator.cpp
+END
+ZGameClient_DuelTournament.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameClient_DuelTournament.cpp
+END
+ZCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacter.h
+END
+ZMyCharacter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyCharacter.cpp
+END
+ZMyBuffMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyBuffMgr.h
+END
+ZWorldItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWorldItem.cpp
+END
+ZTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask.h
+END
+NMCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/NMCrypt.h
+END
+ZEffectBillboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBillboard.cpp
+END
+ZShop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShop.cpp
+END
+ZModule_Skills.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_Skills.h
+END
+CGLEncription.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/CGLEncription.h
+END
+ZEquipmentListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEquipmentListBox.cpp
+END
+ZGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGame.h
+END
+ZSoundEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSoundEngine.cpp
+END
+MSysInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/MSysInfo.h
+END
+ZTask_RotateToDir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_RotateToDir.cpp
+END
+MCommandLogFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/MCommandLogFrame.h
+END
+ZShopEquipListbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipListbox.h
+END
+ZCharacter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacter.cpp
+END
+ZOptionInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZOptionInterface.h
+END
+ZModule_Movable.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_Movable.h
+END
+ZInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInterface.cpp
+END
+ZEffectAniMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectAniMesh.cpp
+END
+ZFilePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZFilePath.h
+END
+ZTask_Skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_Skill.h
+END
+ZPostLocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPostLocal.h
+END
+ZBirdDummyAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBirdDummyAI.cpp
+END
+ZEffectFlashBang.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectFlashBang.h
+END
+ZAniEventHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZAniEventHandler.cpp
+END
+ZActorAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActorAnimation.cpp
+END
+ZItemIconBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemIconBitmap.h
+END
+ZNetmarble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetmarble.cpp
+END
+ZEffectLightFragmentList.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectLightFragmentList.h
+END
+ZCharacterItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterItem.cpp
+END
+ZNPCInfoFromServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNPCInfoFromServer.h
+END
+ZEffectMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectMesh.h
+END
+ZSkill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSkill.cpp
+END
+ZGameTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameTimer.h
+END
+ZActionKey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActionKey.cpp
+END
+ZPlayerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerManager.cpp
+END
+ZModule_LightningDamage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_LightningDamage.cpp
+END
+ZCharacterSelectView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterSelectView.cpp
+END
+ZGameOnJPAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameOnJPAuth.h
+END
+ZLanguageConf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLanguageConf.cpp
+END
+ZNetAgreementBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetAgreementBuilder.h
+END
+ZRuleDeathMatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleDeathMatch.cpp
+END
+ZBehavior_Attack.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Attack.h
+END
+ZColorTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZColorTable.h
+END
+ZMyQuestItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyQuestItem.h
+END
+ZObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZObserver.h
+END
+upnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/upnp.h
+END
+ZModule_HealOverTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_HealOverTime.h
+END
+ZGameInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameInterface.h
+END
+ZToolTip.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZToolTip.h
+END
+ZInterfaceBackground.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZInterfaceBackground.cpp
+END
+ZShopEquipInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipInterface.h
+END
+ZEffectBillboardList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBillboardList.cpp
+END
+ZEffectLightFragmentList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectLightFragmentList.cpp
+END
+ZItemIconBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemIconBitmap.cpp
+END
+ZMsgBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMsgBox.h
+END
+ZMyItemList.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyItemList.h
+END
+ZActor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZActor.cpp
+END
+ZGameClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameClient.cpp
+END
+ZStateMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStateMachine.h
+END
+ZGameType.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameType.cpp
+END
+ZCommandUDPHackShield.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCommandUDPHackShield.h
+END
+ZTestGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTestGame.h
+END
+ZCharacterItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterItem.h
+END
+ZPlayerMenu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZPlayerMenu.cpp
+END
+ZMyGambleItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyGambleItem.h
+END
+ZWater.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWater.cpp
+END
+ZMonsterBookInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMonsterBookInterface.cpp
+END
+ZChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChat.h
+END
+ZDuelTournamentRankingListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZDuelTournamentRankingListBox.cpp
+END
+ZCommandTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCommandTable.cpp
+END
+ZRoomListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRoomListBox.h
+END
+ZCombatInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatInterface.cpp
+END
+ZCharacterView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterView.cpp
+END
+ZWorldManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWorldManager.h
+END
+ZMyBuff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyBuff.cpp
+END
+ZChannelListItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChannelListItem.h
+END
+ZMiniMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMiniMap.cpp
+END
+ZFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZFrame.cpp
+END
+ZShadow.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShadow.h
+END
+ZEffectLightTracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectLightTracer.h
+END
+ZNHN_USA_Report.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNHN_USA_Report.h
+END
+ZItemSlotView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemSlotView.cpp
+END
+ZBrain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBrain.cpp
+END
+ZMeshView.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMeshView.h
+END
+ZCombatQuestScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCombatQuestScreen.h
+END
+MEmblemMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/MEmblemMgr.h
+END
+ZLocale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLocale.cpp
+END
+ZQuest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZQuest.cpp
+END
+ZShopEquipItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipItem.h
+END
+ZObjectManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZObjectManager.cpp
+END
+ZConsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZConsole.cpp
+END
+ZTaskManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTaskManager.h
+END
+ZQuestMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZQuestMap.h
+END
+ZLocatorList.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZLocatorList.h
+END
+ZGameClient_Clan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameClient_Clan.cpp
+END
+ZStageSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStageSetting.h
+END
+ZMyInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyInfo.h
+END
+ZMessages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMessages.cpp
+END
+ZMyCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyCharacter.h
+END
+ZGameClient_HShield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameClient_HShield.cpp
+END
+ZEffectBillboardList.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBillboardList.h
+END
+ZModule_QuestStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_QuestStatus.cpp
+END
+Mint4R2.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Mint4R2.h
+END
+ZMyGambleItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyGambleItem.cpp
+END
+ZConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZConfiguration.h
+END
+ZGameAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameAction.h
+END
+MSysInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/MSysInfo.cpp
+END
+ZEffectLightFragment.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectLightFragment.h
+END
+ZGameType.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameType.h
+END
+ZBirdTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBirdTest.cpp
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/Config.h
+END
+ZBehavior_Patrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Patrol.h
+END
+ZNetRepository.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetRepository.cpp
+END
+ZWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWorld.cpp
+END
+ZScreenEffectManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScreenEffectManager.cpp
+END
+ZTask_RotateToDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZTask_RotateToDir.h
+END
+ZMonsterBookInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMonsterBookInterface.h
+END
+ZModule_FireDamage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_FireDamage.cpp
+END
+ZGameInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameInput.cpp
+END
+ZEffectSmoke.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectSmoke.cpp
+END
+ZShopEquipItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShopEquipItem.cpp
+END
+ZEffectBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBase.h
+END
+ZVoteInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZVoteInterface.cpp
+END
+ZItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItem.cpp
+END
+ZBehavior.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior.cpp
+END
+ZItemSlotView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZItemSlotView.h
+END
+ZChannelRule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZChannelRule.cpp
+END
+ZBrain.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBrain.h
+END
+ZBehavior_Idle.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Idle.h
+END
+ZWeaponMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZWeaponMgr.h
+END
+ZGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGlobal.h
+END
+ZGameTypeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZGameTypeList.cpp
+END
+ZQuestGameInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZQuestGameInfo.cpp
+END
+ZMyItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyItem.h
+END
+ZBaseAuthInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBaseAuthInfo.h
+END
+ZIDLResource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZIDLResource.cpp
+END
+ZNHN_USA_Poll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNHN_USA_Poll.cpp
+END
+MPartialBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/MPartialBitmap.h
+END
+ZEnemy.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEnemy.h
+END
+ZCharacterViewList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterViewList.cpp
+END
+ZCountDown.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCountDown.h
+END
+ZNetAgreementBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZNetAgreementBuilder.cpp
+END
+ZHelpScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZHelpScreen.cpp
+END
+ZRuleBaseQuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleBaseQuest.h
+END
+ZClothEmblem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZClothEmblem.cpp
+END
+ZBirdDummyClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBirdDummyClient.cpp
+END
+ZBehavior_Idle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBehavior_Idle.cpp
+END
+ZCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCamera.h
+END
+ZRuleQuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleQuest.h
+END
+ZMyBuffMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyBuffMgr.cpp
+END
+ZRuleDeathMatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleDeathMatch.h
+END
+fmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/fmod.h
+END
+ZRangeWeaponHitDice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRangeWeaponHitDice.cpp
+END
+ZEffectSmoke.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectSmoke.h
+END
+ZServerView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZServerView.cpp
+END
+ZMyItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMyItem.cpp
+END
+ZStateMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStateMachine.cpp
+END
+CGLEncription.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/CGLEncription.cpp
+END
+ZModule_Skills.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZModule_Skills.cpp
+END
+fmodvc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/fmodvc.lib
+END
+ZStringResManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZStringResManager.cpp
+END
+ZRuleAssassinate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleAssassinate.h
+END
+ZSecurity.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZSecurity.h
+END
+ZBitmapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZBitmapManager.h
+END
+ZRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRule.h
+END
+MCommandLogFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/MCommandLogFrame.cpp
+END
+ZShop.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShop.h
+END
+ZEffectBulletMark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectBulletMark.cpp
+END
+ZMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMap.h
+END
+ZMapListBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZMapListBox.cpp
+END
+ZUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZUtil.h
+END
+resource1.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/resource1.h
+END
+ZCharacterObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZCharacterObject.cpp
+END
+ZRuleBaseQuest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZRuleBaseQuest.cpp
+END
+ZEffectLightTracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZEffectLightTracer.cpp
+END
+ZShadow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZShadow.cpp
+END
+ZScoreListBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/ZScoreListBox.h
+END

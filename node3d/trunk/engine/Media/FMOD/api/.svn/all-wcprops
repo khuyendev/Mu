@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api
+END
+fmod64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/fmod64.dll
+END
+fmod.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/engine/Media/FMOD/api/fmod.dll
+END

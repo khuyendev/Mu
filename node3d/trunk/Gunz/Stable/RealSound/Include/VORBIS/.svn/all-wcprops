@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/Include/VORBIS
+END
+vorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/Include/VORBIS/vorbisfile.h
+END
+vorbisenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/Include/VORBIS/vorbisenc.h
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/Include/VORBIS/codec.h
+END

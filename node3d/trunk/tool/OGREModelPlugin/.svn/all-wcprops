@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/20/trunk/tool/OGREModelPlugin
+END
+MyPlug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/tool/OGREModelPlugin/MyPlug.cpp
+END
+MyPlug.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/20/trunk/tool/OGREModelPlugin/MyPlug.h
+END
+OgreMeshSerializerImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/20/trunk/tool/OGREModelPlugin/OgreMeshSerializerImpl.cpp
+END
+OGREModelPlugin.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/20/trunk/tool/OGREModelPlugin/OGREModelPlugin.vcxproj
+END
+OGREModelPlugin.def
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/20/trunk/tool/OGREModelPlugin/OGREModelPlugin.def
+END
+OgreMeshSerializerImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20/trunk/tool/OGREModelPlugin/OgreMeshSerializerImpl.h
+END

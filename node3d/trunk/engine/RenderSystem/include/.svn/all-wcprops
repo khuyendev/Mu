@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/387/trunk/engine/RenderSystem/include
+END
+TextureMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/363/trunk/engine/RenderSystem/include/TextureMgr.h
+END
+Shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/331/trunk/engine/RenderSystem/include/Shader.h
+END
+VB.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/VB.h
+END
+RenderWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/RenderWindow.h
+END
+HardwareIndexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/HardwareIndexBuffer.h
+END
+Root.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/Root.h
+END
+VertexDeclaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/346/trunk/engine/RenderSystem/include/VertexDeclaration.h
+END
+RenderSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/363/trunk/engine/RenderSystem/include/RenderSystem.h
+END
+HardwareVertexBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/HardwareVertexBuffer.h
+END
+HardwareBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/HardwareBuffer.h
+END
+AniTex.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/AniTex.h
+END
+RenderSystemCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/363/trunk/engine/RenderSystem/include/RenderSystemCommon.h
+END
+HardwareBufferMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/HardwareBufferMgr.h
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/331/trunk/engine/RenderSystem/include/Material.h
+END
+Graphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/387/trunk/engine/RenderSystem/include/Graphics.h
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/363/trunk/engine/RenderSystem/include/Texture.h
+END
+ddslib.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/engine/RenderSystem/include/ddslib.h
+END

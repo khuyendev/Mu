@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/364/trunk/bin/Client/EngineRes/shader
+END
+edge.fx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/edge.fx
+END
+skeleton.fx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/skeleton.fx
+END
+grid.fx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/grid.fx
+END
+alphaPlane.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/alphaPlane.fx
+END
+shared.fx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/shared.fx
+END
+line.fx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/line.fx
+END

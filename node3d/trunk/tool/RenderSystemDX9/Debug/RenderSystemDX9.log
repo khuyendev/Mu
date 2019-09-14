@@ -1,0 +1,21 @@
+﻿  DXUTmisc.cpp
+d:\source client d3d9\node3d\trunk\tool\rendersystemdx9\dxstdafx.h(3): fatal error C1083: Cannot open include file: 'Common.h': No such file or directory
+  DXUT.cpp
+d:\source client d3d9\node3d\trunk\tool\rendersystemdx9\dxstdafx.h(3): fatal error C1083: Cannot open include file: 'Common.h': No such file or directory
+  D3D9VertexDeclaration.cpp
+d:\source client d3d9\node3d\trunk\engine\rendersystem\include\rendersystemcommon.h(2): fatal error C1083: Cannot open include file: 'Vec2D.h': No such file or directory
+  D3D9Texture.cpp
+d:\source client d3d9\node3d\trunk\tool\rendersystemdx9\dxstdafx.h(3): fatal error C1083: Cannot open include file: 'Common.h': No such file or directory
+  D3D9Shader.cpp
+d:\source client d3d9\node3d\trunk\engine\rendersystem\include\shader.h(2): fatal error C1083: Cannot open include file: 'Matrix.h': No such file or directory
+  D3D9RenderWindow.cpp
+d:\source client d3d9\node3d\trunk\tool\rendersystemdx9\dxstdafx.h(3): fatal error C1083: Cannot open include file: 'Common.h': No such file or directory
+  D3D9RenderSystemCommon.cpp
+d:\source client d3d9\node3d\trunk\tool\rendersystemdx9\d3d9rendersystemcommon.h(2): fatal error C1083: Cannot open include file: 'Common.h': No such file or directory
+  D3D9RenderSystem.cpp
+d:\source client d3d9\node3d\trunk\engine\rendersystem\include\shader.h(2): fatal error C1083: Cannot open include file: 'Matrix.h': No such file or directory
+  D3D9HardwareVertexBuffer.cpp
+d:\source client d3d9\node3d\trunk\tool\rendersystemdx9\d3d9rendersystemcommon.h(2): fatal error C1083: Cannot open include file: 'Common.h': No such file or directory
+  D3D9HardwareIndexBuffer.cpp
+d:\source client d3d9\node3d\trunk\tool\rendersystemdx9\d3d9rendersystemcommon.h(2): fatal error C1083: Cannot open include file: 'Common.h': No such file or directory
+  Generating Code...

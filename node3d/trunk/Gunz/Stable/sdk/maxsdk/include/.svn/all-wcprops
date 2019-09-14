@@ -1,0 +1,1913 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/stack.h
+END
+idx8pixelshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/idx8pixelshader.h
+END
+box2.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/box2.h
+END
+point4.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/point4.h
+END
+bitarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/bitarray.h
+END
+interactiverender.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/interactiverender.h
+END
+IMtlBrowserFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IMtlBrowserFilter.h
+END
+ICoordSys_i.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ICoordSys_i.c
+END
+lslights.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/lslights.h
+END
+tessint.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/tessint.h
+END
+alerts.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/alerts.h
+END
+patchobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/patchobj.h
+END
+baseinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/baseinterface.h
+END
+mtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mtl.h
+END
+plugapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/plugapi.h
+END
+simpobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/simpobj.h
+END
+bezfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/bezfont.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/filters.h
+END
+palutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/palutil.h
+END
+keyreduc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/keyreduc.h
+END
+euler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/euler.h
+END
+impapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/impapi.h
+END
+soundobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/soundobj.h
+END
+ilayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ilayer.h
+END
+tcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/tcp.h
+END
+meshdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/meshdlib.h
+END
+stack3.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/stack3.h
+END
+iassembly.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iassembly.h
+END
+arcdlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/arcdlg.h
+END
+iparamb2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iparamb2.h
+END
+imenus.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imenus.h
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/units.h
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/particle.h
+END
+iSkinPose.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iSkinPose.h
+END
+meshdelta.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/meshdelta.h
+END
+utilapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/utilapi.h
+END
+dbgprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/dbgprint.h
+END
+box3.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/box3.h
+END
+shadbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/shadbuf.h
+END
+hitdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/hitdata.h
+END
+assert1.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/assert1.h
+END
+gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gamma.h
+END
+ihardwaremesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ihardwaremesh.h
+END
+dynamic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/dynamic.h
+END
+iparamm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iparamm.h
+END
+vedge.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/vedge.h
+END
+rtclick.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/rtclick.h
+END
+macrorec.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/macrorec.h
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/plugin.h
+END
+IMtlRender_Compatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IMtlRender_Compatibility.h
+END
+iBlockRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iBlockRef.h
+END
+svcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/svcore.h
+END
+DefaultActions.H
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/DefaultActions.H
+END
+cmdmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/cmdmode.h
+END
+iparamm2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iparamm2.h
+END
+surf_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/surf_api.h
+END
+fltlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/fltlib.h
+END
+iimageviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iimageviewer.h
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/render.h
+END
+acolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/acolor.h
+END
+mcapdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mcapdev.h
+END
+MeshNormalSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/MeshNormalSpec.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/log.h
+END
+shpsels.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/shpsels.h
+END
+genhier.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/genhier.h
+END
+gupapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gupapi.h
+END
+id3d9graphicswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/id3d9graphicswindow.h
+END
+iunwrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iunwrap.h
+END
+itreevw.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/itreevw.h
+END
+interpik.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/interpik.h
+END
+gup.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gup.h
+END
+icurvctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/icurvctl.h
+END
+iemissioncolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iemissioncolor.h
+END
+scanlinepagemgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/scanlinepagemgr.h
+END
+iparamwire.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iparamwire.h
+END
+ispringctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ispringctrl.h
+END
+props.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/props.h
+END
+icommandpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/icommandpanel.h
+END
+simpmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/simpmod.h
+END
+buildnumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/buildnumber.h
+END
+strbasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/strbasic.h
+END
+quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/quat.h
+END
+mouseproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mouseproc.h
+END
+midiman.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/midiman.h
+END
+splshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/splshape.h
+END
+irefhierarchy.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/irefhierarchy.h
+END
+custattrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/custattrib.h
+END
+animtbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/animtbl.h
+END
+inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/inode.h
+END
+MNNormalSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/MNNormalSpec.h
+END
+iRenderPresets.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iRenderPresets.h
+END
+patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/patch.h
+END
+ikhierarchy.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ikhierarchy.h
+END
+shphier.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/shphier.h
+END
+paramtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/paramtype.h
+END
+trig.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/trig.h
+END
+imtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imtl.h
+END
+idatachannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/idatachannel.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/color.h
+END
+ICoordSys.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ICoordSys.h
+END
+dpoint3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/dpoint3.h
+END
+ilayermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ilayermanager.h
+END
+gbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gbuf.h
+END
+interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/interval.h
+END
+actiontable.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/actiontable.h
+END
+matrix2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/matrix2.h
+END
+sceneapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/sceneapi.h
+END
+hotcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/hotcheck.h
+END
+maxnet_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxnet_file.h
+END
+dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/dummy.h
+END
+zlibdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/zlibdll.h
+END
+ihardwarerenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ihardwarerenderer.h
+END
+texutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/texutil.h
+END
+iguest.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iguest.h
+END
+templt.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/templt.h
+END
+appio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/appio.h
+END
+shadgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/shadgen.h
+END
+imtledit.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imtledit.h
+END
+gfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gfloat.h
+END
+namesel.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/namesel.h
+END
+gfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gfx.h
+END
+radiosityMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/radiosityMesh.h
+END
+ipointcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ipointcache.h
+END
+maxnet_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxnet_manager.h
+END
+linklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/linklist.h
+END
+channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/channels.h
+END
+randgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/randgenerator.h
+END
+maxnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxnet.h
+END
+maxicon.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxicon.h
+END
+iLuminaire.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iLuminaire.h
+END
+tvnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/tvnode.h
+END
+sfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/sfx.h
+END
+icustattribcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/icustattribcontainer.h
+END
+genlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/genlight.h
+END
+springsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/springsys.h
+END
+notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/notify.h
+END
+setkeymode.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/setkeymode.h
+END
+chkmtlapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/chkmtlapi.h
+END
+systemutilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/systemutilities.h
+END
+iInstanceMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iInstanceMgr.h
+END
+osnaphit.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/osnaphit.h
+END
+samplers.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/samplers.h
+END
+matrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/matrix3.h
+END
+sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/sse.h
+END
+iEditNormals.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iEditNormals.h
+END
+istdplug.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/istdplug.h
+END
+INodeBakeProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/INodeBakeProperties.h
+END
+strclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/strclass.h
+END
+mnbigmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mnbigmat.h
+END
+idx9vertexshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/idx9vertexshader.h
+END
+impexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/impexp.h
+END
+iADTStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iADTStyle.h
+END
+IRadiosityPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IRadiosityPreferences.h
+END
+IDxMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IDxMaterial.h
+END
+referencemgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/referencemgr.h
+END
+coreexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/coreexp.h
+END
+viewfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/viewfile.h
+END
+iiksys.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iiksys.h
+END
+ixref.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ixref.h
+END
+istddualvs.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/istddualvs.h
+END
+MAX_Mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/MAX_Mem.h
+END
+excllist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/excllist.h
+END
+notetrck.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/notetrck.h
+END
+imblur.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imblur.h
+END
+utilexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/utilexp.h
+END
+maxversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxversion.h
+END
+manipulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/manipulator.h
+END
+ibrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ibrowser.h
+END
+naturalLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/naturalLight.h
+END
+idraganddrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/idraganddrop.h
+END
+polyshp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/polyshp.h
+END
+partclib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/partclib.h
+END
+iTargetedIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iTargetedIO.h
+END
+osnapmk.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/osnapmk.h
+END
+imenuman.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imenuman.h
+END
+expmtlControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/expmtlControl.h
+END
+patchcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/patchcap.h
+END
+meshlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/meshlib.h
+END
+patchlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/patchlib.h
+END
+triobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/triobj.h
+END
+id3dgraphicswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/id3dgraphicswindow.h
+END
+idx8vertexshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/idx8vertexshader.h
+END
+snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/snap.h
+END
+bmmlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/bmmlib.h
+END
+icollision.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/icollision.h
+END
+lockid.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/lockid.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/object.h
+END
+decomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/decomp.h
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/nametab.h
+END
+osnapapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/osnapapi.h
+END
+gfxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gfxlib.h
+END
+pixelbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/pixelbuf.h
+END
+geomlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/geomlib.h
+END
+polyobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/polyobj.h
+END
+frontend.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/frontend.h
+END
+fltapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/fltapi.h
+END
+objmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/objmode.h
+END
+IViewportManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IViewportManager.h
+END
+ifnpub.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ifnpub.h
+END
+maxcom.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxcom.h
+END
+omanapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/omanapi.h
+END
+captypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/captypes.h
+END
+INodeGIProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/INodeGIProperties.h
+END
+ILightingUnits.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ILightingUnits.h
+END
+custcont.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/custcont.h
+END
+linshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/linshape.h
+END
+utillib.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/utillib.h
+END
+icustrendpresets.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/icustrendpresets.h
+END
+spacearraycallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/spacearraycallback.h
+END
+ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ref.h
+END
+osnap.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/osnap.h
+END
+spline3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/spline3d.h
+END
+iADTObjMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iADTObjMgr.h
+END
+mouseman.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mouseman.h
+END
+IParticleObjectExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IParticleObjectExt.h
+END
+ipoint2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ipoint2.h
+END
+gizmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gizmo.h
+END
+maxnet_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxnet_job.h
+END
+tvutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/tvutil.h
+END
+mnmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mnmesh.h
+END
+gencam.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gencam.h
+END
+gport.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gport.h
+END
+iskincodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iskincodes.h
+END
+pbbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/pbbitmap.h
+END
+imacroscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imacroscript.h
+END
+GeoTableItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/GeoTableItem.h
+END
+ILayerProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ILayerProperties.h
+END
+toneop.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/toneop.h
+END
+radiosity.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/radiosity.h
+END
+irollupsettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/irollupsettings.h
+END
+toolmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/toolmap.h
+END
+iparamb.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iparamb.h
+END
+point2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/point2.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/control.h
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/export.h
+END
+guplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/guplib.h
+END
+icolorman.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/icolorman.h
+END
+maxtess.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxtess.h
+END
+xtcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/xtcobject.h
+END
+printmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/printmanager.h
+END
+nsclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/nsclip.h
+END
+ikctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ikctrl.h
+END
+iksolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iksolver.h
+END
+maxnet_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxnet_platform.h
+END
+ICompositeShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ICompositeShader.h
+END
+meshacc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/meshacc.h
+END
+idx9pixelshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/idx9pixelshader.h
+END
+ifacedatamgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ifacedatamgr.h
+END
+iBlockMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iBlockMgr.h
+END
+maxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxtypes.h
+END
+marketDefaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/marketDefaults.h
+END
+sbmtlapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/sbmtlapi.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/bitmap.h
+END
+ilag.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ilag.h
+END
+buildver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/buildver.h
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/expr.h
+END
+maxapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxapi.h
+END
+wrangler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/wrangler.h
+END
+pod.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/pod.h
+END
+gutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gutil.h
+END
+ihardwarematerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ihardwarematerial.h
+END
+ipoint3.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ipoint3.h
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/geom.h
+END
+genshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/genshape.h
+END
+winutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/winutil.h
+END
+IUtilityPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IUtilityPanel.h
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mesh.h
+END
+ihardwareshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ihardwareshader.h
+END
+csapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/csapi.h
+END
+ITabDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ITabDialog.h
+END
+hsv.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/hsv.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ioapi.h
+END
+iepoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iepoly.h
+END
+ptrvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ptrvec.h
+END
+MAXVERSION.R
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/MAXVERSION.R
+END
+nodedisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/nodedisp.h
+END
+imaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imaterial.h
+END
+INodeLayerProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/INodeLayerProperties.h
+END
+evuser.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/evuser.h
+END
+imszip.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/imszip.h
+END
+meshadj.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/meshadj.h
+END
+point3.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/point3.h
+END
+maxnet_low.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxnet_low.h
+END
+ipipelineclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ipipelineclient.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/client.h
+END
+ihardwaremnmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ihardwaremnmesh.h
+END
+impexpintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/impexpintf.h
+END
+mnmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mnmath.h
+END
+contextids.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/contextids.h
+END
+mstshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mstshape.h
+END
+IGlobalDXDisplayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGlobalDXDisplayManager.h
+END
+helpsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/helpsys.h
+END
+tcbgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/tcbgraph.h
+END
+gizmoimp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/gizmoimp.h
+END
+stdmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/stdmat.h
+END
+utilintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/utilintf.h
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/shape.h
+END
+exprlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/exprlib.h
+END
+modstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/modstack.h
+END
+tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/tab.h
+END
+udmia64.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/udmia64.h
+END
+evrouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/evrouter.h
+END
+renderelements.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/renderelements.h
+END
+iskin.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iskin.h
+END
+iADTCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iADTCategory.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/random.h
+END
+simpshp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/simpshp.h
+END
+mncommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/mncommon.h
+END
+max.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/max.h
+END
+hold.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/hold.h
+END
+simpspl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/simpspl.h
+END
+INodeExposure.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/INodeExposure.h
+END
+shaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/shaders.h
+END
+maxnet_archive.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/maxnet_archive.h
+END
+iassemblymgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iassemblymgr.h
+END
+ireagent.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/ireagent.h
+END
+iaggregation.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/iaggregation.h
+END
+IBlobMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IBlobMesh.h
+END

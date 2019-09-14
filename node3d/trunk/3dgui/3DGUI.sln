@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{B6819BE9-8A98-49FA-9CD0-EC1843BCAD4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{850EF140-1ADE-48DA-BEC6-1379495B6364}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3DGUI", "3DGUI\3DGUI.vcxproj", "{F604143C-01E8-4DDC-A06D-C577F2CA7052}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextRender", "TextRender\TextRender.vcxproj", "{5D0B0214-31D2-4323-BE50-366D4BC03730}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "freetype", "Freetype\freetype.vcxproj", "{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tinyxml", "tinyxml\tinyxml.vcxproj", "{9497968A-97CE-451F-8F13-68EF524B681F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F604143C-01E8-4DDC-A06D-C577F2CA7052}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F604143C-01E8-4DDC-A06D-C577F2CA7052}.Debug|Win32.Build.0 = Debug|Win32
+		{F604143C-01E8-4DDC-A06D-C577F2CA7052}.Release|Win32.ActiveCfg = Release|Win32
+		{F604143C-01E8-4DDC-A06D-C577F2CA7052}.Release|Win32.Build.0 = Release|Win32
+		{5D0B0214-31D2-4323-BE50-366D4BC03730}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D0B0214-31D2-4323-BE50-366D4BC03730}.Debug|Win32.Build.0 = Debug|Win32
+		{5D0B0214-31D2-4323-BE50-366D4BC03730}.Release|Win32.ActiveCfg = Release|Win32
+		{5D0B0214-31D2-4323-BE50-366D4BC03730}.Release|Win32.Build.0 = Release|Win32
+		{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}.Debug|Win32.Build.0 = Debug|Win32
+		{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}.Release|Win32.ActiveCfg = Release|Win32
+		{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}.Release|Win32.Build.0 = Release|Win32
+		{9497968A-97CE-451F-8F13-68EF524B681F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9497968A-97CE-451F-8F13-68EF524B681F}.Debug|Win32.Build.0 = Debug|Win32
+		{9497968A-97CE-451F-8F13-68EF524B681F}.Release|Win32.ActiveCfg = Release|Win32
+		{9497968A-97CE-451F-8F13-68EF524B681F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

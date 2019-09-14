@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/281/trunk/shared/Math/include
+END
+RECT.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/shared/Math/include/RECT.h
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/shared/Math/include/Color.h
+END
+Plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/shared/Math/include/Plane.h
+END
+Intersect.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/123/trunk/shared/Math/include/Intersect.h
+END
+Template2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/shared/Math/include/Template2D.h
+END
+Template4D.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/shared/Math/include/Template4D.h
+END
+Vec2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/shared/Math/include/Vec2D.h
+END
+Vec3D.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/shared/Math/include/Vec3D.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/shared/Math/include/Matrix.h
+END
+Frustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/281/trunk/shared/Math/include/Frustum.h
+END
+Quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/shared/Math/include/Quaternion.h
+END
+Vec4D.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/shared/Math/include/Vec4D.h
+END
+Pos2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/shared/Math/include/Pos2D.h
+END
+interpolation.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/shared/Math/include/interpolation.h
+END

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/55/trunk/tool/WorldEditor/Dialog
+END
+DlgFPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgFPS.h
+END
+DlgMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgMaterial.cpp
+END
+UIWorldEditorDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/42/trunk/tool/WorldEditor/Dialog/UIWorldEditorDisplay.h
+END
+DlgMainEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgMainEditor.h
+END
+DlgBrushAtt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrushAtt.h
+END
+UIComboObjList.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/UIComboObjList.h
+END
+DlgToolbar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgToolbar.cpp
+END
+UICoordDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/UICoordDisplay.cpp
+END
+ModelDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/ModelDisplay.h
+END
+DlgModelController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgModelController.cpp
+END
+DlgTileBrush.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgTileBrush.h
+END
+UIComboObjListSceneObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/UIComboObjListSceneObject.h
+END
+DlgToolObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgToolObject.h
+END
+DlgModelAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgModelAnim.h
+END
+DlgTerrainEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgTerrainEditor.cpp
+END
+DlgBrushHeight.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrushHeight.cpp
+END
+DlgModelPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgModelPlayer.cpp
+END
+DlgFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgFile.cpp
+END
+UIComboObjListTile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/UIComboObjListTile.h
+END
+DlgSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgSetting.h
+END
+DlgBrush.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrush.cpp
+END
+DlgBrushColor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrushColor.h
+END
+DlgFaceDetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgFaceDetect.cpp
+END
+DlgFPS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgFPS.cpp
+END
+DlgController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgController.h
+END
+DlgRegister.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgRegister.h
+END
+DlgMainEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/55/trunk/tool/WorldEditor/Dialog/DlgMainEditor.cpp
+END
+UIWorldEditorDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/42/trunk/tool/WorldEditor/Dialog/UIWorldEditorDisplay.cpp
+END
+DlgBrushAtt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrushAtt.cpp
+END
+UIComboObjList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/UIComboObjList.cpp
+END
+ModelDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/55/trunk/tool/WorldEditor/Dialog/ModelDisplay.cpp
+END
+DlgTileBrush.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/tool/WorldEditor/Dialog/DlgTileBrush.cpp
+END
+UIComboObjListSceneObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/37/trunk/tool/WorldEditor/Dialog/UIComboObjListSceneObject.cpp
+END
+DlgMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgMaterial.h
+END
+DlgToolObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/43/trunk/tool/WorldEditor/Dialog/DlgToolObject.cpp
+END
+DlgModelAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgModelAnim.cpp
+END
+DlgToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgToolbar.h
+END
+UICoordDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/UICoordDisplay.h
+END
+DlgModelController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgModelController.h
+END
+UIComboObjListTile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/trunk/tool/WorldEditor/Dialog/UIComboObjListTile.cpp
+END
+DlgSetting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/43/trunk/tool/WorldEditor/Dialog/DlgSetting.cpp
+END
+DlgTerrainEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgTerrainEditor.h
+END
+DlgBrushHeight.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrushHeight.h
+END
+DlgBrushColor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrushColor.cpp
+END
+DlgModelPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgModelPlayer.h
+END
+DlgController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgController.cpp
+END
+DlgRegister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgRegister.cpp
+END
+DlgFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgFile.h
+END
+DlgBrush.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgBrush.h
+END
+DlgFaceDetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/tool/WorldEditor/Dialog/DlgFaceDetect.h
+END

@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include
+END
+xnamath.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xnamath.h
+END
+dsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dsetup.h
+END
+D3DX11.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX11.h
+END
+XAPOFX.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/XAPOFX.h
+END
+d3dx9math.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9math.h
+END
+d3dx9shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9shape.h
+END
+dsconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dsconf.h
+END
+D3D11.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D11.h
+END
+D3DX10math.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX10math.h
+END
+D3DX11core.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX11core.h
+END
+XDSP.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/XDSP.h
+END
+DxErr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/DxErr.h
+END
+rmxfguid.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/rmxfguid.h
+END
+gameux.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/gameux.h
+END
+D2D1Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D2D1Helper.h
+END
+xnamathconvert.inl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xnamathconvert.inl
+END
+dsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dsound.h
+END
+DXGIType.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/DXGIType.h
+END
+d3dx9anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9anim.h
+END
+d3dx10async.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx10async.h
+END
+D3DX11async.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX11async.h
+END
+d3d9.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3d9.h
+END
+dinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dinput.h
+END
+audiodefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/audiodefs.h
+END
+XAPO.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/XAPO.h
+END
+d3dx9mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9mesh.h
+END
+xma2defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xma2defs.h
+END
+dxfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dxfile.h
+END
+XAudio2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/XAudio2.h
+END
+d3dx9tex.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9tex.h
+END
+xnamathvector.inl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xnamathvector.inl
+END
+D3DX10mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX10mesh.h
+END
+xnamathmatrix.inl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xnamathmatrix.inl
+END
+xact3.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xact3.h
+END
+D3Dcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3Dcommon.h
+END
+D3DX10tex.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX10tex.h
+END
+rpcsal.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/rpcsal.h
+END
+d3d10misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3d10misc.h
+END
+D3DCSX.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DCSX.h
+END
+D2DBaseTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D2DBaseTypes.h
+END
+d3dx9.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9.h
+END
+D3D10_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D10_1.h
+END
+DXGI.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/DXGI.h
+END
+d3d10sdklayers.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3d10sdklayers.h
+END
+DWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/DWrite.h
+END
+dxdiag.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dxdiag.h
+END
+XAPOBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/XAPOBase.h
+END
+D3D11Shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D11Shader.h
+END
+D3DX10.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX10.h
+END
+d3dx9core.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9core.h
+END
+DXGIFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/DXGIFormat.h
+END
+comdecl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/comdecl.h
+END
+dinputd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dinputd.h
+END
+xnamathmisc.inl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xnamathmisc.inl
+END
+XAudio2fx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/XAudio2fx.h
+END
+xact3d3.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xact3d3.h
+END
+D3D10.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D10.h
+END
+D3DX10core.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX10core.h
+END
+d3dx9shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9shader.h
+END
+D3D10_1shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D10_1shader.h
+END
+D3DX_DXGIFormatConvert.inl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX_DXGIFormatConvert.inl
+END
+D3DX11tex.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX11tex.h
+END
+d3d9types.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3d9types.h
+END
+D2D1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D2D1.h
+END
+Dcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/Dcommon.h
+END
+D3D11SDKLayers.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D11SDKLayers.h
+END
+d3dx9math.inl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9math.inl
+END
+D3D10shader.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D10shader.h
+END
+D3Dcompiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3Dcompiler.h
+END
+d3dx9effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9effect.h
+END
+d3dx9xof.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3dx9xof.h
+END
+D3DX10math.inl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3DX10math.inl
+END
+rmxftmpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/rmxftmpl.h
+END
+d3d9caps.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/d3d9caps.h
+END
+xact3wb.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/xact3wb.h
+END
+PIXPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/PIXPlugin.h
+END
+X3DAudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/X3DAudio.h
+END
+D2Derr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D2Derr.h
+END
+XInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/XInput.h
+END
+D3D10effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/D3D10effect.h
+END
+dxsdkver.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/tool/RenderSystemDX9/DX9SDK/Include/dxsdkver.h
+END

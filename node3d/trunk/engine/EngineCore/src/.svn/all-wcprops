@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/387/trunk/engine/EngineCore/src
+END
+BaseCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/282/trunk/engine/EngineCore/src/BaseCamera.cpp
+END
+RenderNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/366/trunk/engine/EngineCore/src/RenderNode.cpp
+END
+FocusNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/79/trunk/engine/EngineCore/src/FocusNode.cpp
+END
+SceneData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/345/trunk/engine/EngineCore/src/SceneData.cpp
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/282/trunk/engine/EngineCore/src/Camera.cpp
+END
+AnimMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/engine/EngineCore/src/AnimMgr.cpp
+END
+SkeletonNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/357/trunk/engine/EngineCore/src/SkeletonNode.cpp
+END
+LodMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/304/trunk/engine/EngineCore/src/LodMesh.cpp
+END
+RenderNodeMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/349/trunk/engine/EngineCore/src/RenderNodeMgr.cpp
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/383/trunk/engine/EngineCore/src/Scene.cpp
+END
+Particle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/351/trunk/engine/EngineCore/src/Particle.cpp
+END
+MeshCoordinate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/304/trunk/engine/EngineCore/src/MeshCoordinate.cpp
+END
+LightMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/82/trunk/engine/EngineCore/src/LightMap.cpp
+END
+HDRFormats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/engine/EngineCore/src/HDRFormats.cpp
+END
+SceneEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/387/trunk/engine/EngineCore/src/SceneEffect.cpp
+END
+AStar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/345/trunk/engine/EngineCore/src/AStar.cpp
+END
+LightNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/362/trunk/engine/EngineCore/src/LightNode.cpp
+END
+SkeletonData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/347/trunk/engine/EngineCore/src/SkeletonData.cpp
+END
+SkinMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/362/trunk/engine/EngineCore/src/SkinMesh.cpp
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/engine/EngineCore/src/Log.cpp
+END
+Octree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/80/trunk/engine/EngineCore/src/Octree.cpp
+END

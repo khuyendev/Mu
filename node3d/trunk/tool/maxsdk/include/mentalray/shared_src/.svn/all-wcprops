@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mentalray/shared_src
+END
+mrShaderFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mentalray/shared_src/mrShaderFilter.cpp
+END
+mrShaderButtonHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mentalray/shared_src/mrShaderButtonHandler.cpp
+END
+mrShaderFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mentalray/shared_src/mrShaderFilter.h
+END
+mrShaderButtonHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mentalray/shared_src/mrShaderButtonHandler.h
+END

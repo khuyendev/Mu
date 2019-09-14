@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ATS
+END
+IATSMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ATS/IATSMax.h
+END
+IATSCustomDeps.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ATS/IATSCustomDeps.h
+END
+IATSNotifications.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ATS/IATSNotifications.h
+END
+IATSProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ATS/IATSProvider.h
+END
+IATSProviderExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ATS/IATSProviderExport.h
+END

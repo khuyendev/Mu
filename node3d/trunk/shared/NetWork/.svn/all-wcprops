@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/shared/NetWork
+END
+NetWork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/shared/NetWork/NetWork.cpp
+END
+MyWinsockBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/shared/NetWork/MyWinsockBase.cpp
+END
+NetWork.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/shared/NetWork/NetWork.h
+END
+NetWork.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/shared/NetWork/NetWork.vcxproj
+END
+MyWinsockBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/shared/NetWork/MyWinsockBase.h
+END

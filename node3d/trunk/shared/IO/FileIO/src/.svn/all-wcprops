@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/315/trunk/shared/IO/FileIO/src
+END
+FileSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/FileSystem.cpp
+END
+IOReadPak.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/IOReadPak.h
+END
+DnFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/DnFile.h
+END
+MyIORead.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/MyIORead.cpp
+END
+CSVFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/315/trunk/shared/IO/FileIO/src/CSVFile.cpp
+END
+StringNodeFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/StringNodeFile.cpp
+END
+LumpFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/LumpFile.cpp
+END
+MyIORead.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/MyIORead.h
+END
+IOReadPak.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/IOReadPak.cpp
+END
+NodeData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/NodeData.cpp
+END
+DnFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/DnFile.cpp
+END
+IORead.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/shared/IO/FileIO/src/IORead.cpp
+END

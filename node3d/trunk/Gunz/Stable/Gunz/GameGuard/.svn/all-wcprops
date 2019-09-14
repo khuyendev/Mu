@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard
+END
+NPGameLib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/NPGameLib.lib
+END
+NPGameLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/NPGameLib.h
+END
+GUNZWEITest.ini
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/GUNZWEITest.ini
+END
+GameGuard.des
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/GameGuard.des
+END
+GUNZWEI.ini
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/GUNZWEI.ini
+END
+새 텍스트 문서.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/%EC%83%88%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EB%AC%B8%EC%84%9C.txt
+END
+GunzUSTest.ini
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/GunzUSTest.ini
+END
+GunzUS.ini
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/GameGuard/GunzUS.ini
+END

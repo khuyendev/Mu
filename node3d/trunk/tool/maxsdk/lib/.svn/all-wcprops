@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib
+END
+ParticleFlow.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/ParticleFlow.lib
+END
+gup.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/gup.lib
+END
+maxnet.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/maxnet.lib
+END
+zlibdll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/zlibdll.lib
+END
+acap.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/acap.lib
+END
+physique.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/physique.lib
+END
+renderutil.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/renderutil.lib
+END
+expr.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/expr.lib
+END
+crowd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/crowd.lib
+END
+igame.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/igame.lib
+END
+biped.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/biped.lib
+END
+gfx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/gfx.lib
+END
+flt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/flt.lib
+END
+geom.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/geom.lib
+END
+imageviewers.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/imageviewers.lib
+END
+helpsys.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/helpsys.lib
+END
+tessint.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/tessint.lib
+END
+rtmax.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/rtmax.lib
+END
+mesh.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/mesh.lib
+END
+geomimp.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/geomimp.lib
+END
+menuman.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/menuman.lib
+END
+atscore.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/atscore.lib
+END
+springsys.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/springsys.lib
+END
+maxscrpt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/maxscrpt.lib
+END
+composite.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/composite.lib
+END
+particle.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/particle.lib
+END
+manipsys.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/manipsys.lib
+END
+custdlg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/custdlg.lib
+END
+edmodel.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/edmodel.lib
+END
+viewfile.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/viewfile.lib
+END
+bmm.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/bmm.lib
+END
+paramblk2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/paramblk2.lib
+END
+maxutil.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/maxutil.lib
+END
+poly.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/poly.lib
+END
+mnmath.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/mnmath.lib
+END
+menus.lib
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/menus.lib
+END
+core.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/core.lib
+END
+amodeler.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/lib/amodeler.lib
+END

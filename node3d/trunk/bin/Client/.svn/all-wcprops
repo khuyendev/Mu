@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/387/trunk/bin/Client
+END
+WorldEditorUI.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/trunk/bin/Client/WorldEditorUI.cfg
+END
+D3DX9_43.dll
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/26/trunk/bin/Client/D3DX9_43.dll
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/59/trunk/bin/Client/ReadMe.txt
+END
+WorldEditor.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/trunk/bin/Client/WorldEditor.cfg
+END
+Client.exe
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/387/trunk/bin/Client/Client.exe
+END
+WorldEditor.exe
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/trunk/bin/Client/WorldEditor.exe
+END
+D3dx9d_43.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/26/trunk/bin/Client/D3dx9d_43.dll
+END
+lua5.1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/trunk/bin/Client/lua5.1.dll
+END
+fmod.dll
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/19/trunk/bin/Client/fmod.dll
+END
+lua51.dll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/trunk/bin/Client/lua51.dll
+END
+server.ini
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/191/trunk/bin/Client/server.ini
+END
+Font.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/19/trunk/bin/Client/Font.cfg
+END
+GameUI.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/trunk/bin/Client/GameUI.cfg
+END
+Game.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/204/trunk/bin/Client/Game.cfg
+END

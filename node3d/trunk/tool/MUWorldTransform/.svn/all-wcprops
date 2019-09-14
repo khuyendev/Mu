@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform
+END
+ItemBMD.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/ItemBMD.cpp
+END
+MUBmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/MUBmd.cpp
+END
+MUWorldTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/MUWorldTransform.cpp
+END
+ItemBMD.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/ItemBMD.h
+END
+DecryptFuncs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/DecryptFuncs.cpp
+END
+MUBmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/MUBmd.h
+END
+MUWorldTransform.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/MUWorldTransform.vcxproj
+END
+DecryptFuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/tool/MUWorldTransform/DecryptFuncs.h
+END

@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include
+END
+RSolidBsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RSolidBsp.h
+END
+RAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RAnimation.h
+END
+RAnimationFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RAnimationFile.h
+END
+RLenzFlare.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RLenzFlare.h
+END
+RBoundary.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RBoundary.h
+END
+RAnimationMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RAnimationMgr.h
+END
+RAnimationNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RAnimationNode.h
+END
+RVisualMeshMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RVisualMeshMgr.h
+END
+RError.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RError.h
+END
+RMaterialList.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMaterialList.h
+END
+RMeshUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMeshUtil.h
+END
+RRoam.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RRoam.h
+END
+RMeshNodeStringTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMeshNodeStringTable.h
+END
+RMeshMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMeshMgr.h
+END
+RCharCloth.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RCharCloth.h
+END
+RParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RParticleSystem.h
+END
+RVersions.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RVersions.h
+END
+RCylinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RCylinder.h
+END
+RCloth.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RCloth.h
+END
+RHalfEdgeMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RHalfEdgeMesh.h
+END
+RMtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMtrl.h
+END
+RVisualMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RVisualMesh.h
+END
+RToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RToken.h
+END
+RPathFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RPathFinder.h
+END
+RAniEventInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RAniEventInfo.h
+END
+RSphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RSphere.h
+END
+RLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RLine.h
+END
+RDummyList.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RDummyList.h
+END
+ROcclusionList.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/ROcclusionList.h
+END
+RCollisionDetection.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RCollisionDetection.h
+END
+RBaseTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RBaseTexture.h
+END
+RMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMesh.h
+END
+RMeshNodeData.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMeshNodeData.h
+END
+RPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RPath.h
+END
+RNameSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RNameSpace.h
+END
+RFrameWork.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RFrameWork.h
+END
+RAnimationDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RAnimationDef.h
+END
+RealSpace2.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RealSpace2.h
+END
+RMeshNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RMeshNode.h
+END
+RLightList.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RLightList.h
+END
+RFont_old.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RFont_old.h
+END
+RTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RTypes.h
+END
+RNavigationNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RNavigationNode.h
+END
+RFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RFont.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/stdafx.h
+END
+RAStar.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RAStar.h
+END
+RBspObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RBspObject.h
+END
+RNavigationMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RNavigationMesh.h
+END
+RShaderMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RShaderMgr.h
+END
+RDynamicLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RDynamicLight.h
+END
+RVisualMeshUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/RealSpace2/Include/RVisualMeshUtil.h
+END

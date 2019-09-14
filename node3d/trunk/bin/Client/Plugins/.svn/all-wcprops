@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/387/trunk/bin/Client/Plugins
+END
+RenderSystemDX9.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/387/trunk/bin/Client/Plugins/RenderSystemDX9.dll
+END
+MuMapPlugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/376/trunk/bin/Client/Plugins/MuMapPlugin.dll
+END
+MuModelPlugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/376/trunk/bin/Client/Plugins/MuModelPlugin.dll
+END
+ParticlePlugin.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/376/trunk/bin/Client/Plugins/ParticlePlugin.dll
+END

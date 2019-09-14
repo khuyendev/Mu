@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src
+END
+d3dutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/d3dutil.cpp
+END
+dxutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/dxutil.cpp
+END
+d3dfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/d3dfile.cpp
+END
+d3dsaver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/d3dsaver.cpp
+END
+d3dapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/d3dapp.cpp
+END
+netvoice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/netvoice.cpp
+END
+d3denumeration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/d3denumeration.cpp
+END
+ddutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/ddutil.cpp
+END
+netclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/netclient.cpp
+END
+didevimg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/didevimg.cpp
+END
+diutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/diutil.cpp
+END
+d3dsettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/d3dsettings.cpp
+END
+dmutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/dmutil.cpp
+END
+SessionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/SessionInfo.cpp
+END
+netconnect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/netconnect.cpp
+END
+d3dfont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/d3dfont.cpp
+END
+dsutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/dx9/Common/src/dsutil.cpp
+END

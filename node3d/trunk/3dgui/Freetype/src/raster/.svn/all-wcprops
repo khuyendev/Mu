@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster
+END
+ftrend1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/ftrend1.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/Jamfile
+END
+ftrend1.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/ftrend1.h
+END
+rasterrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/rasterrs.h
+END
+ftraster.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/ftraster.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/module.mk
+END
+ftmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/ftmisc.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/rules.mk
+END
+ftraster.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/ftraster.h
+END
+raster.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/3dgui/Freetype/src/raster/raster.c
+END

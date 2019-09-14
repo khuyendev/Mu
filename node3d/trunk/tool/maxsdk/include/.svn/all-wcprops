@@ -1,0 +1,2309 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/23/trunk/tool/maxsdk/include
+END
+spacearraycallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/spacearraycallback.h
+END
+fltlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/fltlib.h
+END
+euler.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/euler.h
+END
+acolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/acolor.h
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/render.h
+END
+iADTCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iADTCategory.h
+END
+dpoint3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/dpoint3.h
+END
+MeshNormalSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/MeshNormalSpec.h
+END
+pod.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/pod.h
+END
+iADTObjMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iADTObjMgr.h
+END
+IParticleObjectExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IParticleObjectExt.h
+END
+osnaphit.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/osnaphit.h
+END
+gupapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gupapi.h
+END
+matrix2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/matrix2.h
+END
+samplers.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/samplers.h
+END
+maxnet_job.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxnet_job.h
+END
+hold.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/hold.h
+END
+istdplug.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/istdplug.h
+END
+iskincodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iskincodes.h
+END
+zlibdll.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/zlibdll.h
+END
+iMorphByBone.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iMorphByBone.h
+END
+texutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/texutil.h
+END
+strclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/strclass.h
+END
+mnbigmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mnbigmat.h
+END
+iassemblymgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iassemblymgr.h
+END
+iemissioncolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iemissioncolor.h
+END
+hsv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/hsv.h
+END
+iaggregation.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iaggregation.h
+END
+idx9vertexshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/idx9vertexshader.h
+END
+ISceneStateManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ISceneStateManager.h
+END
+units.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/units.h
+END
+shadgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/shadgen.h
+END
+viewfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/viewfile.h
+END
+box2.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/box2.h
+END
+gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gamma.h
+END
+ihardwaremesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ihardwaremesh.h
+END
+namesel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/namesel.h
+END
+ILayerControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ILayerControl.h
+END
+excllist.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/excllist.h
+END
+notetrck.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/notetrck.h
+END
+IFrameTagManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IFrameTagManager.h
+END
+vedge.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/vedge.h
+END
+INodeGIProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeGIProperties.h
+END
+ibrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ibrowser.h
+END
+IPainterInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IPainterInterface.h
+END
+maxicon.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxicon.h
+END
+iRenderPresets.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iRenderPresets.h
+END
+partclib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/partclib.h
+END
+IRefTargMonitorClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IRefTargMonitorClass.h
+END
+INodeValidity.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeValidity.h
+END
+tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/tab.h
+END
+imenuman.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imenuman.h
+END
+Noncopyable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/Noncopyable.h
+END
+IAssetAccessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IAssetAccessor.h
+END
+systemutilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/systemutilities.h
+END
+patchcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/patchcap.h
+END
+max.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/max.h
+END
+patchlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/patchlib.h
+END
+matrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/matrix3.h
+END
+ITabDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ITabDialog.h
+END
+ProductSDKVer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ProductSDKVer.h
+END
+iguest.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iguest.h
+END
+idx8vertexshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/idx8vertexshader.h
+END
+IPathConfigMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IPathConfigMgr.h
+END
+props.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/props.h
+END
+MAXVERSION.R
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/MAXVERSION.R
+END
+coreexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/coreexp.h
+END
+templt.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/templt.h
+END
+INodeMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeMonitor.h
+END
+radiosity.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/radiosity.h
+END
+icommandpanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/icommandpanel.h
+END
+INodeShadingProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeShadingProperties.h
+END
+osnapapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/osnapapi.h
+END
+box3.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/box3.h
+END
+gfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gfloat.h
+END
+maxnet_low.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxnet_low.h
+END
+pixelbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/pixelbuf.h
+END
+frontend.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/frontend.h
+END
+ICoordSys_i.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ICoordSys_i.c
+END
+icolorman.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/icolorman.h
+END
+impexpintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/impexpintf.h
+END
+IViewportManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IViewportManager.h
+END
+contextids.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/contextids.h
+END
+irefhierarchy.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/irefhierarchy.h
+END
+xtcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/xtcobject.h
+END
+maxnet_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxnet_manager.h
+END
+captypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/captypes.h
+END
+utilexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/utilexp.h
+END
+mtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mtl.h
+END
+IViewportShadingMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IViewportShadingMgr.h
+END
+maxnet.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxnet.h
+END
+inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/inode.h
+END
+polyshp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/polyshp.h
+END
+patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/patch.h
+END
+tvnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/tvnode.h
+END
+INodeDisplayProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeDisplayProperties.h
+END
+custcont.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/custcont.h
+END
+linshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/linshape.h
+END
+icustrendpresets.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/icustrendpresets.h
+END
+osnapmk.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/osnapmk.h
+END
+notify.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/notify.h
+END
+iBlockMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iBlockMgr.h
+END
+iimageviewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iimageviewer.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/color.h
+END
+ilayermanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ilayermanager.h
+END
+spline3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/spline3d.h
+END
+meshlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/meshlib.h
+END
+mouseman.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mouseman.h
+END
+ihardwarematerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ihardwarematerial.h
+END
+IDX10HardwareRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IDX10HardwareRenderer.h
+END
+IRTShaderNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IRTShaderNode.h
+END
+dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/dummy.h
+END
+pbbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/pbbitmap.h
+END
+impexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/impexp.h
+END
+ILayerProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ILayerProperties.h
+END
+IMaterialViewportShading.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IMaterialViewportShading.h
+END
+imaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imaterial.h
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/nametab.h
+END
+appio.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/appio.h
+END
+quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/quat.h
+END
+iiksys.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iiksys.h
+END
+polyobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/polyobj.h
+END
+geomlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/geomlib.h
+END
+objmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/objmode.h
+END
+radiosityMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/radiosityMesh.h
+END
+omanapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/omanapi.h
+END
+INodeMentalRayProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeMentalRayProperties.h
+END
+imblur.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imblur.h
+END
+randgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/randgenerator.h
+END
+MNNormalSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/MNNormalSpec.h
+END
+iksolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iksolver.h
+END
+ICompositeShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ICompositeShader.h
+END
+utillib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/utillib.h
+END
+imtl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imtl.h
+END
+trig.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/trig.h
+END
+ISimpleFaceDataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ISimpleFaceDataManager.h
+END
+RealWorldMapUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/RealWorldMapUtils.h
+END
+maxtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxtypes.h
+END
+idatachannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/idatachannel.h
+END
+sbmtlapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/sbmtlapi.h
+END
+ILimitCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ILimitCtrl.h
+END
+buildver.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/buildver.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/log.h
+END
+wrangler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/wrangler.h
+END
+gbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gbuf.h
+END
+ipoint2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ipoint2.h
+END
+id3d9graphicswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/id3d9graphicswindow.h
+END
+IColorCorrectionMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IColorCorrectionMgr.h
+END
+ISkinWrapPatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ISkinWrapPatch.h
+END
+triobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/triobj.h
+END
+IMetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IMetaData.h
+END
+genshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/genshape.h
+END
+gup.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gup.h
+END
+EditSoftSelectionMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/EditSoftSelectionMode.h
+END
+ispringctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ispringctrl.h
+END
+iEPolyMod.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iEPolyMod.h
+END
+bmmlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/bmmlib.h
+END
+IRadiosityPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IRadiosityPreferences.h
+END
+IBlobMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IBlobMesh.h
+END
+lockid.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/lockid.h
+END
+nodedisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/nodedisp.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/object.h
+END
+irollupsettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/irollupsettings.h
+END
+decomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/decomp.h
+END
+buildnumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/buildnumber.h
+END
+iparamb.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iparamb.h
+END
+toolmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/toolmap.h
+END
+gfxlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gfxlib.h
+END
+interactiverender.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/interactiverender.h
+END
+maxheapdirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxheapdirect.h
+END
+fltapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/fltapi.h
+END
+IMtlBrowserFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IMtlBrowserFilter.h
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/control.h
+END
+IRTShaderParameterBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IRTShaderParameterBinding.h
+END
+ifnpub.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ifnpub.h
+END
+maxtess.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxtess.h
+END
+maxcom.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxcom.h
+END
+mstshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mstshape.h
+END
+MaxMixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/MaxMixer.h
+END
+tcbgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/tcbgraph.h
+END
+MNChamferData10.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/MNChamferData10.h
+END
+gizmoimp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gizmoimp.h
+END
+utilintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/utilintf.h
+END
+icustattribcontainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/icustattribcontainer.h
+END
+maxnet_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxnet_platform.h
+END
+ILightingUnits.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ILightingUnits.h
+END
+ikhierarchy.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ikhierarchy.h
+END
+meshacc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/meshacc.h
+END
+modstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/modstack.h
+END
+idx9pixelshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/idx9pixelshader.h
+END
+XMLAnimTreeEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XMLAnimTreeEntry.h
+END
+expmtlControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/expmtlControl.h
+END
+evrouter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/evrouter.h
+END
+scenetraversal.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/scenetraversal.h
+END
+iInstanceMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iInstanceMgr.h
+END
+mncommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mncommon.h
+END
+actiontable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/actiontable.h
+END
+ipoint3.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ipoint3.h
+END
+mnmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mnmesh.h
+END
+tvutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/tvutil.h
+END
+iassembly.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iassembly.h
+END
+iEditNormals.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iEditNormals.h
+END
+gencam.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gencam.h
+END
+maxnet_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxnet_file.h
+END
+winutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/winutil.h
+END
+ILinkTMCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ILinkTMCtrl.h
+END
+ihardwareshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ihardwareshader.h
+END
+ireagent.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ireagent.h
+END
+iparamwire.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iparamwire.h
+END
+referencemgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/referencemgr.h
+END
+toneop.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/toneop.h
+END
+iSkinPose.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iSkinPose.h
+END
+meshdelta.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/meshdelta.h
+END
+IRefTargContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IRefTargContainer.h
+END
+meshadj.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/meshadj.h
+END
+point2.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/point2.h
+END
+bitarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/bitarray.h
+END
+ipipelineclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ipipelineclient.h
+END
+ihardwaremnmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ihardwaremnmesh.h
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/export.h
+END
+guplib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/guplib.h
+END
+IProjectionRenderHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IProjectionRenderHandler.h
+END
+ISkinWrapMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ISkinWrapMesh.h
+END
+gfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gfx.h
+END
+custattrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/custattrib.h
+END
+IGlobalDXDisplayManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IGlobalDXDisplayManager.h
+END
+ipointcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ipointcache.h
+END
+helpsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/helpsys.h
+END
+ikctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ikctrl.h
+END
+nsclip.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/nsclip.h
+END
+lslights.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/lslights.h
+END
+patchobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/patchobj.h
+END
+naturalLight.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/naturalLight.h
+END
+idraganddrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/idraganddrop.h
+END
+sfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/sfx.h
+END
+iBlockRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iBlockRef.h
+END
+ISceneEventManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ISceneEventManager.h
+END
+ISimpleFaceDataChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ISimpleFaceDataChannel.h
+END
+exprlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/exprlib.h
+END
+ProductDefaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ProductDefaults.h
+END
+udmia64.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/udmia64.h
+END
+marketDefaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/marketDefaults.h
+END
+keyreduc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/keyreduc.h
+END
+ICustAttribCollapseManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ICustAttribCollapseManager.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/bitmap.h
+END
+maxapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxapi.h
+END
+osnap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/osnap.h
+END
+soundobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/soundobj.h
+END
+simpshp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/simpshp.h
+END
+gizmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gizmo.h
+END
+meshdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/meshdlib.h
+END
+simpspl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/simpspl.h
+END
+iTrackSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iTrackSet.h
+END
+shaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/shaders.h
+END
+RendType.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/RendType.h
+END
+sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/sse.h
+END
+RTMax.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/RTMax.h
+END
+gport.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gport.h
+END
+iparamb2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iparamb2.h
+END
+INodeBakeProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeBakeProperties.h
+END
+snap.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/snap.h
+END
+iepoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iepoly.h
+END
+ptrvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ptrvec.h
+END
+particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/particle.h
+END
+IDxMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IDxMaterial.h
+END
+idx8pixelshader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/idx8pixelshader.h
+END
+ObjectWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ObjectWrapper.h
+END
+objectClassId.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/objectClassId.h
+END
+evuser.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/evuser.h
+END
+dbgprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/dbgprint.h
+END
+imszip.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imszip.h
+END
+IRefTargMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IRefTargMonitor.h
+END
+point3.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/point3.h
+END
+mouseproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mouseproc.h
+END
+ProductFileSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ProductFileSupport.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/client.h
+END
+mnmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mnmath.h
+END
+IProjectionMod.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IProjectionMod.h
+END
+IIndirectRefMaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IIndirectRefMaker.h
+END
+IShadeContextExtension8.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IShadeContextExtension8.h
+END
+tessint.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/tessint.h
+END
+macrorec.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/macrorec.h
+END
+manipulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/manipulator.h
+END
+stdmat.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/stdmat.h
+END
+IMtlRender_Compatibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IMtlRender_Compatibility.h
+END
+iLuminaire.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iLuminaire.h
+END
+iTargetedIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iTargetedIO.h
+END
+plugapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/plugapi.h
+END
+paramtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/paramtype.h
+END
+simpobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/simpobj.h
+END
+bezfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/bezfont.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/filters.h
+END
+iparamm2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iparamm2.h
+END
+surf_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/surf_api.h
+END
+setkeymode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/setkeymode.h
+END
+palutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/palutil.h
+END
+IWorkingPivot.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IWorkingPivot.h
+END
+renderelements.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/renderelements.h
+END
+ICoordSys.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ICoordSys.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/random.h
+END
+MaxHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/MaxHeap.h
+END
+IDaylightSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IDaylightSystem.h
+END
+gutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gutil.h
+END
+interpik.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/interpik.h
+END
+IIndirectRefTargContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IIndirectRefTargContainer.h
+END
+icurvctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/icurvctl.h
+END
+IUtilityPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IUtilityPanel.h
+END
+maxnet_archive.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxnet_archive.h
+END
+ihardwarerenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ihardwarerenderer.h
+END
+csapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/csapi.h
+END
+imacroscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imacroscript.h
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ioapi.h
+END
+GeoTableItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/GeoTableItem.h
+END
+IBrushPresets.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IBrushPresets.h
+END
+3dsmaxport.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/3dsmaxport.h
+END
+utilapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/utilapi.h
+END
+ILoadSaveAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ILoadSaveAnimation.h
+END
+BuildWarnings.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/BuildWarnings.h
+END
+strbasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/strbasic.h
+END
+shadbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/shadbuf.h
+END
+point4.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/point4.h
+END
+hitdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/hitdata.h
+END
+splshape.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/splshape.h
+END
+assert1.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/assert1.h
+END
+istddualvs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/istddualvs.h
+END
+dynamic.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/dynamic.h
+END
+iparamm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iparamm.h
+END
+printmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/printmanager.h
+END
+alerts.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/alerts.h
+END
+rtclick.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/rtclick.h
+END
+maxversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxversion.h
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/shape.h
+END
+springsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/springsys.h
+END
+INodeTransformMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeTransformMonitor.h
+END
+ifacedatamgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ifacedatamgr.h
+END
+cmdmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/cmdmode.h
+END
+IHeightManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IHeightManager.h
+END
+chkmtlapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/chkmtlapi.h
+END
+ilag.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ilag.h
+END
+ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ref.h
+END
+gport2.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/gport2.h
+END
+iskin.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iskin.h
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/expr.h
+END
+impapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/impapi.h
+END
+mcapdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mcapdev.h
+END
+genhier.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/genhier.h
+END
+shpsels.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/shpsels.h
+END
+interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/interval.h
+END
+ilayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/ilayer.h
+END
+itreevw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/itreevw.h
+END
+iunwrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iunwrap.h
+END
+sceneapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/sceneapi.h
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/geom.h
+END
+stack3.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/stack3.h
+END
+hotcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/hotcheck.h
+END
+INodeExposure.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeExposure.h
+END
+arcdlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/arcdlg.h
+END
+id3dgraphicswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/id3dgraphicswindow.h
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/mesh.h
+END
+imenus.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imenus.h
+END
+IDaylightControlledLightSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IDaylightControlledLightSystem.h
+END
+iADTStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/iADTStyle.h
+END
+icollision.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/icollision.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/stack.h
+END
+simpmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/simpmod.h
+END
+INodeLayerProperties.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/INodeLayerProperties.h
+END
+imtledit.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/imtledit.h
+END
+midiman.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/midiman.h
+END
+IDialogMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IDialogMonitor.h
+END
+IProjection_WorkingModelInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IProjection_WorkingModelInfo.h
+END
+IBatchRenderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IBatchRenderManager.h
+END
+animtbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/animtbl.h
+END
+linklist.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/linklist.h
+END
+channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/channels.h
+END
+baseinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/baseinterface.h
+END
+Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/Path.h
+END
+autoptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/autoptr.h
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/plugin.h
+END
+IActionItemOverrideManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/IActionItemOverrideManager.h
+END
+genlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/genlight.h
+END
+svcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/svcore.h
+END
+shphier.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/shphier.h
+END
+DefaultActions.H
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/DefaultActions.H
+END
+SingleWeakRefMaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/SingleWeakRefMaker.h
+END

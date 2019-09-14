@@ -1,0 +1,9 @@
+[m2]
+shader=emissive
+
+[l0]
+bone=3
+pos=0,0,0
+color=aa6600
+len=3
+rand=0.4

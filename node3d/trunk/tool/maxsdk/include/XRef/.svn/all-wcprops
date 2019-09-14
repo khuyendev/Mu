@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef
+END
+iXrefProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXrefProxy.h
+END
+iXrefAtmos.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXrefAtmos.h
+END
+iXrefCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXrefCtrl.h
+END
+iXRefObjMgr8.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXRefObjMgr8.h
+END
+iXRefObjRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXRefObjRecord.h
+END
+iXrefObj.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXrefObj.h
+END
+iXrefItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXrefItem.h
+END
+iXrefMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXrefMaterial.h
+END
+iXrefObjMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/XRef/iXrefObjMgr.h
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter
+END
+RToken.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RToken.cpp
+END
+dmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/dmath.h
+END
+MDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/MDebug.cpp
+END
+rbsexp.CPP
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/rbsexp.CPP
+END
+RCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RCamera.cpp
+END
+mssccprj.scc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/mssccprj.scc
+END
+ROcclusionList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/ROcclusionList.cpp
+END
+RBSEXP.DEF
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RBSEXP.DEF
+END
+RealSpace2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RealSpace2.cpp
+END
+Export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/Export.cpp
+END
+RSBspExporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RSBspExporter.cpp
+END
+RLightList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RLightList.cpp
+END
+RTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RTypes.cpp
+END
+BspExporter.sln
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/BspExporter.sln
+END
+BELog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/BELog.cpp
+END
+DialogProc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/DialogProc.h
+END
+OpenDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/OpenDlg.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/stdafx.cpp
+END
+FileInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/FileInfo.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/resource.h
+END
+rbsexp.aps
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/rbsexp.aps
+END
+rbsexp.H
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/rbsexp.H
+END
+RMaterialList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RMaterialList.cpp
+END
+MXml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/MXml.cpp
+END
+MPdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/MPdb.cpp
+END
+DialogProc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/DialogProc.cpp
+END
+rbsexp.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/rbsexp.rc
+END
+RSBspExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/RSBspExporter.h
+END
+OpenDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/OpenDlg.h
+END
+BELog.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/BELog.h
+END
+BspExporter.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/BspExporter.vcproj
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/246/trunk/Gunz/Stable/MaxPlugIns/BspExporter/stdafx.h
+END

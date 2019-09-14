@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/364/trunk/bin/Client/EngineRes/shader/geometry
+END
+diffuseAlphaTest128.fx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/diffuseAlphaTest128.fx
+END
+modelShared.fx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/geometry/modelShared.fx
+END
+terrainTileAlpha.fx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainTileAlpha.fx
+END
+terrainShared.fx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/329/trunk/bin/Client/EngineRes/shader/geometry/terrainShared.fx
+END
+terrainTileX2.fx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainTileX2.fx
+END
+terrainTileX4.fx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainTileX4.fx
+END
+terrainTileAlphaX2.fx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainTileAlphaX2.fx
+END
+terrainTileAlphaX4.fx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainTileAlphaX4.fx
+END
+terrainGrass.fx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainGrass.fx
+END
+shared.fx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/362/trunk/bin/Client/EngineRes/shader/geometry/shared.fx
+END
+terrainWater.fx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainWater.fx
+END
+terrainWaterAlpha.fx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainWaterAlpha.fx
+END
+focus.fx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/364/trunk/bin/Client/EngineRes/shader/geometry/focus.fx
+END
+EquipEffect1.fx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/EquipEffect1.fx
+END
+terrainTile.fx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/terrainTile.fx
+END
+EquipEffect2.fx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/EquipEffect2.fx
+END
+EquipEffect3.fx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/geometry/EquipEffect3.fx
+END

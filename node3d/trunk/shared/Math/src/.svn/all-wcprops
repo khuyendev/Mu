@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/275/trunk/shared/Math/src
+END
+Color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/shared/Math/src/Color.cpp
+END
+Plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/shared/Math/src/Plane.cpp
+END
+Matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/shared/Math/src/Matrix.cpp
+END
+Quaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/shared/Math/src/Quaternion.cpp
+END
+Vec4D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/shared/Math/src/Vec4D.cpp
+END
+Frustum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/275/trunk/shared/Math/src/Frustum.cpp
+END

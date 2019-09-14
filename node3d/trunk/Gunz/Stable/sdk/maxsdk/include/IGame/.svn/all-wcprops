@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame
+END
+IGameModifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGameModifier.h
+END
+IGameMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGameMaterial.h
+END
+IGame.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGame.h
+END
+IGameControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGameControl.h
+END
+IGameRenderedSurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGameRenderedSurface.h
+END
+IGameProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGameProperty.h
+END
+IConversionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IConversionManager.h
+END
+IGameObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGameObject.h
+END
+IGameError.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/sdk/maxsdk/include/IGame/IGameError.h
+END

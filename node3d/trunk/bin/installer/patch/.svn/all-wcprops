@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/184/trunk/bin/installer/patch
+END
+newmkpatch.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/184/trunk/bin/installer/patch/newmkpatch.bat
+END
+Update PREV-CURR Setup.iss
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/184/trunk/bin/installer/patch/Update%20PREV-CURR%20Setup.iss
+END
+serverver.scp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/184/trunk/bin/installer/patch/serverver.scp
+END
+saveas.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/184/trunk/bin/installer/patch/saveas.vbs
+END
+dds_Check.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/184/trunk/bin/installer/patch/dds_Check.bat
+END
+dds.bat
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/184/trunk/bin/installer/patch/dds.bat
+END
+WizModernImage2.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/184/trunk/bin/installer/patch/WizModernImage2.bmp
+END
+dirdiff.lua
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/184/trunk/bin/installer/patch/dirdiff.lua
+END
+WizModernSmallImage.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/184/trunk/bin/installer/patch/WizModernSmallImage.bmp
+END
+svnexport.lua
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/184/trunk/bin/installer/patch/svnexport.lua
+END
+serverver.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/184/trunk/bin/installer/patch/serverver.dat
+END
+更新内容.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/184/trunk/bin/installer/patch/%E6%9B%B4%E6%96%B0%E5%86%85%E5%AE%B9.txt
+END
+mkserverver.lua
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/184/trunk/bin/installer/patch/mkserverver.lua
+END
+idr_main.ico
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/184/trunk/bin/installer/patch/idr_main.ico
+END
+mkpatch.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/184/trunk/bin/installer/patch/mkpatch.bat
+END
+skin2dds.exe
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/184/trunk/bin/installer/patch/skin2dds.exe
+END
+mkserver.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/184/trunk/bin/installer/patch/mkserver.bat
+END

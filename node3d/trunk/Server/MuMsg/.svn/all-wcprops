@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/46/trunk/Server/MuMsg
+END
+MuMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/trunk/Server/MuMsg/MuMsg.cpp
+END
+MuMsg.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/MuMsg/MuMsg.vcproj
+END
+MuMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/trunk/Server/MuMsg/MuMsg.h
+END

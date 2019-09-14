@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/387/trunk/Client/Client
+END
+DlgMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/382/trunk/Client/Client/DlgMap.cpp
+END
+RPGSkyUIGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/211/trunk/Client/Client/RPGSkyUIGraph.h
+END
+UIChatList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/262/trunk/Client/Client/UIChatList.cpp
+END
+GlobalFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/378/trunk/Client/Client/GlobalFunction.h
+END
+UIDisplayWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/385/trunk/Client/Client/UIDisplayWorld.cpp
+END
+DlgChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/380/trunk/Client/Client/DlgChat.h
+END
+DlgMinMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/371/trunk/Client/Client/DlgMinMap.h
+END
+GameMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/trunk/Client/Client/GameMain.cpp
+END
+PlayerMe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/380/trunk/Client/Client/PlayerMe.cpp
+END
+DlgChatMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/380/trunk/Client/Client/DlgChatMessage.h
+END
+DlgWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/382/trunk/Client/Client/DlgWorld.h
+END
+RPGSkyTextRender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/380/trunk/Client/Client/RPGSkyTextRender.cpp
+END
+UIDisplayModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/385/trunk/Client/Client/UIDisplayModel.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/233/trunk/Client/Client/Main.cpp
+END
+UIIcon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/381/trunk/Client/Client/UIIcon.cpp
+END
+StrRes.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/Client/Client/StrRes.h
+END
+MainRoot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/381/trunk/Client/Client/MainRoot.cpp
+END
+TColors.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/Client/Client/TColors.h
+END
+World.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/380/trunk/Client/Client/World.h
+END
+DlgCharCreate.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/385/trunk/Client/Client/DlgCharCreate.h
+END
+RPGSkyUIGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/347/trunk/Client/Client/RPGSkyUIGraph.cpp
+END
+Client.rc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/Client/Client/Client.rc
+END
+DlgCharList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/387/trunk/Client/Client/DlgCharList.cpp
+END
+UIGeneralDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/223/trunk/Client/Client/UIGeneralDialog.h
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/Client/Client/Player.h
+END
+DlgLogin.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/380/trunk/Client/Client/DlgLogin.h
+END
+DlgMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/382/trunk/Client/Client/DlgMap.h
+END
+DlgChatMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/380/trunk/Client/Client/DlgChatMessage.cpp
+END
+Npc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/151/trunk/Client/Client/Npc.cpp
+END
+PlayerMe.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/360/trunk/Client/Client/PlayerMe.h
+END
+DlgMessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/380/trunk/Client/Client/DlgMessageBox.cpp
+END
+Client.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/381/trunk/Client/Client/Client.vcxproj
+END
+World.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/380/trunk/Client/Client/World.cpp
+END
+UIDisplayModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/385/trunk/Client/Client/UIDisplayModel.h
+END
+RPGSkyTextRender.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/256/trunk/Client/Client/RPGSkyTextRender.h
+END
+UIIcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/213/trunk/Client/Client/UIIcon.h
+END
+UIGeneralDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/226/trunk/Client/Client/UIGeneralDialog.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/Client/Client/resource.h
+END
+Monster.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/293/trunk/Client/Client/Monster.h
+END
+MainRoot.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/381/trunk/Client/Client/MainRoot.h
+END
+Client.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/381/trunk/Client/Client/Client.vcxproj.filters
+END
+DlgServerList.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/380/trunk/Client/Client/DlgServerList.h
+END
+Res.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/293/trunk/Client/Client/Res.h
+END
+DlgLogin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/380/trunk/Client/Client/DlgLogin.cpp
+END
+Client.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/117/trunk/Client/Client/Client.vcxproj.user
+END
+DlgCharList.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/387/trunk/Client/Client/DlgCharList.h
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/270/trunk/Client/Client/protocol.h
+END
+Role.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/377/trunk/Client/Client/Role.h
+END
+DlgMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/382/trunk/Client/Client/DlgMain.h
+END
+DlgTarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/380/trunk/Client/Client/DlgTarget.h
+END
+Npc.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/288/trunk/Client/Client/Npc.h
+END
+Monster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/380/trunk/Client/Client/Monster.cpp
+END
+ClientNetWork.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/Client/Client/ClientNetWork.cpp
+END
+Res.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/293/trunk/Client/Client/Res.cpp
+END
+DlgMessageBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/381/trunk/Client/Client/DlgMessageBox.h
+END
+DlgServerList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/381/trunk/Client/Client/DlgServerList.cpp
+END
+DlgShortcuts.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/380/trunk/Client/Client/DlgShortcuts.h
+END
+protocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/381/trunk/Client/Client/protocol.cpp
+END
+Role.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/380/trunk/Client/Client/Role.cpp
+END
+DlgChat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/380/trunk/Client/Client/DlgChat.cpp
+END
+GlobalFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/385/trunk/Client/Client/GlobalFunction.cpp
+END
+UpgradeLog.XML
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/Client/Client/UpgradeLog.XML
+END
+DlgMinMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/371/trunk/Client/Client/DlgMinMap.cpp
+END
+DlgMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/382/trunk/Client/Client/DlgMain.cpp
+END
+DlgTarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/380/trunk/Client/Client/DlgTarget.cpp
+END
+UIChatList.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/262/trunk/Client/Client/UIChatList.h
+END
+DlgWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/384/trunk/Client/Client/DlgWorld.cpp
+END
+UIDisplayWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/385/trunk/Client/Client/UIDisplayWorld.h
+END
+StrRes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/50/trunk/Client/Client/StrRes.cpp
+END
+DlgShortcuts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/381/trunk/Client/Client/DlgShortcuts.cpp
+END
+GameCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/381/trunk/Client/Client/GameCamera.h
+END
+DlgCharCreate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/380/trunk/Client/Client/DlgCharCreate.cpp
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/Client/Client/Player.cpp
+END
+ClientNetWork.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/Client/Client/ClientNetWork.h
+END

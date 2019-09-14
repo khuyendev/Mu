@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/184/trunk/bin/installer
+END
+versionlog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/181/trunk/bin/installer/versionlog.txt
+END
+HA_NSIS_v237.exe
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/181/trunk/bin/installer/HA_NSIS_v237.exe
+END
+mktags.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/181/trunk/bin/installer/mktags.bat
+END
+lastver.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/181/trunk/bin/installer/lastver.txt
+END
+maketags.test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/181/trunk/bin/installer/maketags.test.bat
+END

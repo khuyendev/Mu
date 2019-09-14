@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/ui
+END
+UIMark1.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/ui/UIMark1.fx
+END
+UIMark2.fx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/ui/UIMark2.fx
+END
+ui.fx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/ui/ui.fx
+END
+text.fx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/334/trunk/bin/Client/EngineRes/shader/ui/text.fx
+END

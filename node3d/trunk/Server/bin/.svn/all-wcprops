@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/281/trunk/Server/bin
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/trunk/Server/bin/zlib1.dll
+END
+GameServer.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/bin/GameServer.cfg
+END
+GameServerd.exe
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/bin/GameServerd.exe
+END
+WzAGd.dll
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/trunk/Server/bin/WzAGd.dll
+END
+WzAg.ini
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/46/trunk/Server/bin/WzAg.ini
+END
+MuMsgd.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/281/trunk/Server/bin/MuMsgd.dll
+END
+ServerInfo.dat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/bin/ServerInfo.dat
+END

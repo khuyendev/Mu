@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/387/trunk/engine/EngineCore/Include
+END
+SceneData.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/299/trunk/engine/EngineCore/Include/SceneData.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/282/trunk/engine/EngineCore/Include/Camera.h
+END
+InterfacePlug.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/366/trunk/engine/EngineCore/Include/InterfacePlug.h
+END
+SkeletonNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/357/trunk/engine/EngineCore/Include/SkeletonNode.h
+END
+AnimMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/engine/EngineCore/Include/AnimMgr.h
+END
+LodMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/310/trunk/engine/EngineCore/Include/LodMesh.h
+END
+RenderNodeMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/349/trunk/engine/EngineCore/Include/RenderNodeMgr.h
+END
+iSkeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/engine/EngineCore/Include/iSkeleton.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/364/trunk/engine/EngineCore/Include/Scene.h
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/engine/EngineCore/Include/Singleton.h
+END
+Particle.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/351/trunk/engine/EngineCore/Include/Particle.h
+END
+MeshCoordinate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/156/trunk/engine/EngineCore/Include/MeshCoordinate.h
+END
+Terrain.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/348/trunk/engine/EngineCore/Include/Terrain.h
+END
+LightMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/engine/EngineCore/Include/LightMap.h
+END
+iMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/310/trunk/engine/EngineCore/Include/iMesh.h
+END
+iScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/299/trunk/engine/EngineCore/Include/iScene.h
+END
+SceneEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/387/trunk/engine/EngineCore/Include/SceneEffect.h
+END
+AStar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/290/trunk/engine/EngineCore/Include/AStar.h
+END
+iParticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/336/trunk/engine/EngineCore/Include/iParticle.h
+END
+LightNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/351/trunk/engine/EngineCore/Include/LightNode.h
+END
+SkeletonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/engine/EngineCore/Include/SkeletonData.h
+END
+Octree.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/383/trunk/engine/EngineCore/Include/Octree.h
+END
+SkinMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/351/trunk/engine/EngineCore/Include/SkinMesh.h
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/engine/EngineCore/Include/Log.h
+END
+Animated.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/engine/EngineCore/Include/Animated.h
+END
+BaseCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/282/trunk/engine/EngineCore/Include/BaseCamera.h
+END
+RenderNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/366/trunk/engine/EngineCore/Include/RenderNode.h
+END
+FocusNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/121/trunk/engine/EngineCore/Include/FocusNode.h
+END

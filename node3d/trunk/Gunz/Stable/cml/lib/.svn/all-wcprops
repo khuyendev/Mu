@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib
+END
+cml.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib/cml.lib
+END
+zlibstat.lib
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib/zlibstat.lib
+END
+cryptlib2003.lib
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib/cryptlib2003.lib
+END
+cmld.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib/cmld.lib
+END
+zlib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib/zlib.lib
+END
+cryptlib2003d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib/cryptlib2003d.lib
+END
+zlibd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/245/trunk/Gunz/Stable/cml/lib/zlibd.lib
+END

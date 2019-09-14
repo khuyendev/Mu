@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB
+END
+vorbisfile_static.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/vorbisfile_static.lib
+END
+vorbis_static.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/vorbis_static.lib
+END
+RealSound.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/RealSound.lib
+END
+vorbisfile_static_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/vorbisfile_static_d.lib
+END
+vorbis_static_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/vorbis_static_d.lib
+END
+RealSoundd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/RealSoundd.lib
+END
+ogg_static.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/ogg_static.lib
+END
+ogg_static_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/245/trunk/Gunz/Stable/RealSound/LIB/ogg_static_d.lib
+END

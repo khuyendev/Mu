@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit
+END
+WorldEdit.rc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.rc
+END
+PathDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/PathDialog.h
+END
+LightmapDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/LightmapDialog.cpp
+END
+ObjectSelectDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ObjectSelectDialog.cpp
+END
+GeneratePathDataDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/GeneratePathDataDialog.h
+END
+WorldEditDoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEditDoc.h
+END
+MainFrm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/MainFrm.cpp
+END
+ProgressDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ProgressDialog.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ReadMe.txt
+END
+ObjectDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ObjectDialog.h
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/Resource.h
+END
+WorldEditView.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEditView.h
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/StdAfx.h
+END
+GenerateLightmapDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/GenerateLightmapDialog.cpp
+END
+WorldEdit.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.dsp
+END
+WorldEdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.h
+END
+ControlDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ControlDialog.h
+END
+PathDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/PathDialog.cpp
+END
+WorldEdit.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.vcproj
+END
+InfoDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/InfoDialog.h
+END
+GeneratePathDataDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/GeneratePathDataDialog.cpp
+END
+WorldEdit.suo
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.suo
+END
+WorldEditDoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEditDoc.cpp
+END
+ProgressDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ProgressDialog.cpp
+END
+ObjectDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ObjectDialog.cpp
+END
+WorldEditView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEditView.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/StdAfx.cpp
+END
+LightmapDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/LightmapDialog.h
+END
+ObjectSelectDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ObjectSelectDialog.h
+END
+WorldEdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.cpp
+END
+WorldEdit.aps
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.aps
+END
+MainFrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/MainFrm.h
+END
+ControlDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/ControlDialog.cpp
+END
+GenerateLightmapDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/GenerateLightmapDialog.h
+END
+WorldEdit.sln
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/WorldEdit.sln
+END
+InfoDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/246/trunk/Gunz/Stable/WorldEdit/InfoDialog.cpp
+END

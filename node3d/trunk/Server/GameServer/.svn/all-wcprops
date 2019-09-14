@@ -1,0 +1,2033 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/46/trunk/Server/GameServer
+END
+CrywolfUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfUtil.cpp
+END
+TMonsterSkillElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillElement.cpp
+END
+CrywolfSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfSync.h
+END
+BloodCastle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/BloodCastle.cpp
+END
+TUnionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/TUnionInfo.h
+END
+KanturuNightmare.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuNightmare.h
+END
+protocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/protocol.cpp
+END
+CWhatsUpDummyServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/CWhatsUpDummyServer.cpp
+END
+ObjBaseAttack.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjBaseAttack.h
+END
+KanturuMonsterMng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuMonsterMng.cpp
+END
+DbSave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/DbSave.cpp
+END
+Icon5.ico
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/Icon5.ico
+END
+giocp.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/GameServer/giocp.h
+END
+WTEventItemList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/WTEventItemList.cpp
+END
+DarkSpirit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/DarkSpirit.cpp
+END
+New Rich Text Document.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/46/trunk/Server/GameServer/New%20Rich%20Text%20Document.rtf
+END
+TStatistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/TStatistics.cpp
+END
+KanturuBattleOfNightmare.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleOfNightmare.h
+END
+CrywolfStatue.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfStatue.h
+END
+SProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/SProtocol.cpp
+END
+LogToFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/LogToFile.cpp
+END
+TMonsterAIUnit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIUnit.cpp
+END
+TUnionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/TUnionInfo.cpp
+END
+KanturuNightmare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuNightmare.cpp
+END
+TMonsterAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAI.h
+END
+CrywolfTanker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfTanker.cpp
+END
+Mercenary.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/Mercenary.h
+END
+KanturuBattleUserMng.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleUserMng.h
+END
+DirPath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/DirPath.cpp
+END
+DSProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/DSProtocol.h
+END
+JewelMixSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/JewelMixSystem.h
+END
+TMonsterAIGroupMember.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIGroupMember.h
+END
+KanturuMaya.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuMaya.cpp
+END
+CrywolfMonster.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfMonster.h
+END
+TNotice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/TNotice.cpp
+END
+CashLotterySystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/CashLotterySystem.cpp
+END
+GameServer.vcproj.HUIHUI.Administrator.user
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServer.vcproj.HUIHUI.Administrator.user
+END
+WTEventItemList.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/WTEventItemList.h
+END
+MonsterItemMng.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterItemMng.h
+END
+CashShop.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/CashShop.h
+END
+Shop.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/trunk/Server/GameServer/Shop.h
+END
+MagicDamage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/MagicDamage.cpp
+END
+BattleSoccer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/BattleSoccer.h
+END
+SendHackLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/SendHackLog.cpp
+END
+TDurMagicKeyChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/TDurMagicKeyChecker.h
+END
+Gate.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/trunk/Server/GameServer/Gate.h
+END
+PartyClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/PartyClass.cpp
+END
+GuardianStatue.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/GuardianStatue.h
+END
+ComboAttack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/ComboAttack.cpp
+END
+DSProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/DSProtocol.cpp
+END
+CLoginCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/CLoginCount.h
+END
+Weapon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/Weapon.cpp
+END
+SetItemMacro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/SetItemMacro.cpp
+END
+SkillHitBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/SkillHitBox.h
+END
+Copy of QuestInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/Copy%20of%20QuestInfo.h
+END
+MapClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/MapClass.cpp
+END
+ItemBagEx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemBagEx.cpp
+END
+CashShop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/CashShop.cpp
+END
+MonsterItemMng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterItemMng.cpp
+END
+WzUdp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/WzUdp.cpp
+END
+TRandomPoolMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/TRandomPoolMgr.h
+END
+CrywolfDarkElf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfDarkElf.cpp
+END
+wsGameServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/wsGameServer.h
+END
+GuardianStatue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/GuardianStatue.cpp
+END
+Gate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/Gate.cpp
+END
+ClosePlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/ClosePlayer.cpp
+END
+MagicDamage.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/MagicDamage.h
+END
+ComboAttack.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/ComboAttack.h
+END
+wsJoinServerCli.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/wsJoinServerCli.h
+END
+MonsterSetBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterSetBase.cpp
+END
+TMonsterAIAgro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIAgro.cpp
+END
+TMonsterAIRuleInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIRuleInfo.h
+END
+BattleGround.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/BattleGround.h
+END
+NpcTalk.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/NpcTalk.h
+END
+giocp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/giocp.cpp
+END
+MoveCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/MoveCommand.cpp
+END
+ItemSystemFor380.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemSystemFor380.cpp
+END
+BattleSoccerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/BattleSoccerManager.cpp
+END
+GMMng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/GMMng.cpp
+END
+ObjCalCharacter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjCalCharacter.cpp
+END
+KanturuBattleOfNightmare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleOfNightmare.cpp
+END
+TMonsterSkillUnit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillUnit.cpp
+END
+PCSProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/PCSProtocol.h
+END
+TServerAlertManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/TServerAlertManager.cpp
+END
+CastleDeepEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleDeepEvent.h
+END
+DragonEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/DragonEvent.h
+END
+TStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/TStatistics.h
+END
+ObjUseSkill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjUseSkill.cpp
+END
+PKClear.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/PKClear.h
+END
+CrywolfStateTimeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfStateTimeInfo.h
+END
+wsJoinServerCli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/wsJoinServerCli.cpp
+END
+JewelMixSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/JewelMixSystem.cpp
+END
+Guardian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/Guardian.cpp
+END
+IpCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/IpCache.cpp
+END
+JewelOfHarmonySystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/JewelOfHarmonySystem.cpp
+END
+zzzmathlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/zzzmathlib.cpp
+END
+NSerialCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/NSerialCheck.h
+END
+MapItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/MapItem.h
+END
+SkillDelay.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/SkillDelay.h
+END
+EledoradoEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/EledoradoEvent.h
+END
+ConMember.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/ConMember.cpp
+END
+wsShopServerCli.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/wsShopServerCli.h
+END
+Shop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/Shop.cpp
+END
+MoveCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/MoveCheck.h
+END
+CashItemPeriodSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/CashItemPeriodSystem.h
+END
+CashLotterySystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/CashLotterySystem.h
+END
+ObjCalCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjCalCharacter.h
+END
+StatMng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/StatMng.cpp
+END
+MagicInf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/MagicInf.cpp
+END
+ItemSocketSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemSocketSystem.h
+END
+CrywolfSync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfSync.cpp
+END
+TMonsterAIUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIUtil.cpp
+END
+WhisperCash.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/WhisperCash.h
+END
+DevilSquare.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/DevilSquare.h
+END
+EDSProtocol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/EDSProtocol.cpp
+END
+ChaosCastle.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/ChaosCastle.h
+END
+EledoradoEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/EledoradoEvent.cpp
+END
+WzQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/WzQueue.cpp
+END
+icon6.ico
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/icon6.ico
+END
+TMonsterAIGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIGroup.h
+END
+bitmap.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/bitmap.bmp
+END
+ConMember.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/ConMember.h
+END
+GameMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/GameMain.cpp
+END
+WhisperCash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/WhisperCash.cpp
+END
+GameServer.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServer.rc
+END
+CrywolfDarkElf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfDarkElf.h
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/GameServer/Event.h
+END
+MonsterAttr.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterAttr.h
+END
+GameServer.ico
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServer.ico
+END
+TServerInfoDisplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/TServerInfoDisplayer.h
+END
+CastleCrown.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleCrown.h
+END
+TMonsterAIRuleInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIRuleInfo.cpp
+END
+TMonsterAIUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIUnit.h
+END
+TMonsterAIGroupMember.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIGroupMember.cpp
+END
+CCastleEventItemList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/CCastleEventItemList.cpp
+END
+TMonsterAIState.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIState.h
+END
+PacketCheckSum.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/PacketCheckSum.h
+END
+TMonsterAIAgro.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIAgro.h
+END
+MonsterSetBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterSetBase.h
+END
+GameServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServer.h
+END
+GuildWars.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/GuildWars.h
+END
+DevilSquareGround.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/DevilSquareGround.h
+END
+BattleSoccer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/BattleSoccer.cpp
+END
+TNotice.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/TNotice.h
+END
+KanturuTowerOfRefinement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuTowerOfRefinement.cpp
+END
+KanturuEntranceNPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuEntranceNPC.h
+END
+Manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/Manager.h
+END
+CrywolfStateTimeInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfStateTimeInfo.cpp
+END
+PKClear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/PKClear.cpp
+END
+GameServer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServer.vcproj
+END
+Crywolf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/Crywolf.cpp
+END
+TMonsterSkillElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillElement.h
+END
+PartyClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/PartyClass.h
+END
+ObjUseSkill.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjUseSkill.h
+END
+RingAttackEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/RingAttackEvent.h
+END
+TMonsterAIMovePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIMovePath.h
+END
+gObjMonster.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/gObjMonster.h
+END
+GuildClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/GuildClass.h
+END
+GameServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServer.cpp
+END
+small.ico
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/small.ico
+END
+JewelOfHarmonySystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/JewelOfHarmonySystem.h
+END
+zzzmathlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/zzzmathlib.h
+END
+ViewportGuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/ViewportGuild.cpp
+END
+TMonsterSkillManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillManager.cpp
+END
+Messages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/Messages.cpp
+END
+DbSave.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/DbSave.h
+END
+ItemBagEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemBagEx.h
+END
+wsGameServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/wsGameServer.cpp
+END
+CrywolfStatue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfStatue.cpp
+END
+TUnion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/TUnion.cpp
+END
+GameEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/GameEvent.h
+END
+DarkSpirit.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/DarkSpirit.h
+END
+GameServerAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServerAuth.h
+END
+KanturuUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuUtil.cpp
+END
+SProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/SProtocol.h
+END
+LogToFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/LogToFile.h
+END
+ChaosCastle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/ChaosCastle.cpp
+END
+BattleGround.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/BattleGround.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/ReadMe.txt
+END
+CrywolfObjInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfObjInfo.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/StdAfx.h
+END
+LogProc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/LogProc.cpp
+END
+TMonsterSkillElementInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillElementInfo.h
+END
+SkillAdditionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/SkillAdditionInfo.cpp
+END
+DBSockMng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/DBSockMng.cpp
+END
+MultiAttackHackCheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/MultiAttackHackCheck.cpp
+END
+GMMng.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/GameServer/GMMng.h
+END
+MoveCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/MoveCommand.h
+END
+BattleSoccerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/BattleSoccerManager.h
+END
+ItemSystemFor380.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemSystemFor380.h
+END
+Messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/Messages.h
+END
+MultiCheckSum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/MultiCheckSum.cpp
+END
+QuestInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/QuestInfo.cpp
+END
+TMonsterAIRule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIRule.cpp
+END
+AttackEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/AttackEvent.h
+END
+Event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/Event.cpp
+END
+TServerAlertManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/TServerAlertManager.h
+END
+GameMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/GameMain.h
+END
+CastleSiegeSync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleSiegeSync.cpp
+END
+CallStackTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/CallStackTrace.h
+END
+CrywolfUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfUtil.h
+END
+KanturuUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuUtil.h
+END
+CannonTower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CannonTower.cpp
+END
+TMonsterSkillElementInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillElementInfo.cpp
+END
+BloodCastle.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/BloodCastle.h
+END
+SetItemMacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/SetItemMacro.h
+END
+GuildWars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/GuildWars.cpp
+END
+wsShopServerCli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/wsShopServerCli.cpp
+END
+ItemAddOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemAddOption.h
+END
+ObjAttack.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjAttack.h
+END
+KanturuMonsterMng.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuMonsterMng.h
+END
+MultiAttackHackCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/MultiAttackHackCheck.h
+END
+DBSockMng.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/DBSockMng.h
+END
+CManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/CManager.cpp
+END
+CrywolfAltar.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfAltar.h
+END
+EventManagement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/EventManagement.cpp
+END
+CallStackTrace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/CallStackTrace.cpp
+END
+MagicInf.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/MagicInf.h
+END
+StatMng.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/StatMng.h
+END
+KanturuBattleOfMaya.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleOfMaya.h
+END
+gObjMonster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/gObjMonster.cpp
+END
+TMonsterAIMovePath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIMovePath.cpp
+END
+RingAttackEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/RingAttackEvent.cpp
+END
+LargeRand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/LargeRand.cpp
+END
+MonsterHerd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterHerd.h
+END
+ItemAddOption.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemAddOption.cpp
+END
+EDSProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/EDSProtocol.h
+END
+TMonsterAIGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIGroup.cpp
+END
+ChaosBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/ChaosBox.cpp
+END
+WzQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/WzQueue.h
+END
+CastleDeepEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleDeepEvent.cpp
+END
+ItemBag.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemBag.h
+END
+ChinaHackUserKick.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/ChinaHackUserKick.h
+END
+MonsterAttr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterAttr.cpp
+END
+CLoginCount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CLoginCount.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/StdAfx.cpp
+END
+PacketCheckSum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/PacketCheckSum.cpp
+END
+NSerialCheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/NSerialCheck.cpp
+END
+SkillHitBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/SkillHitBox.cpp
+END
+ObjBaseAttack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjBaseAttack.cpp
+END
+MapServerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/MapServerManager.cpp
+END
+IpCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/IpCache.h
+END
+TRandomPoolMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/TRandomPoolMgr.cpp
+END
+LargeRand.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/LargeRand.h
+END
+KanturuObjInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuObjInfo.h
+END
+KanturuStateInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuStateInfo.cpp
+END
+KanturuBattleStanby.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleStanby.cpp
+END
+WzMultiCastSock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/WzMultiCastSock.cpp
+END
+CastleCrownSwitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleCrownSwitch.cpp
+END
+MapClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/MapClass.h
+END
+ItemBag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemBag.cpp
+END
+AttackEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/AttackEvent.cpp
+END
+KanturuEntranceNPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuEntranceNPC.cpp
+END
+Manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/Manager.cpp
+END
+SkillAdditionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/SkillAdditionInfo.h
+END
+user.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/user.cpp
+END
+Mercenary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/Mercenary.cpp
+END
+TMonsterAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAI.cpp
+END
+KanturuBattleUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleUser.h
+END
+Crywolf.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/Crywolf.h
+END
+GuildClass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/GuildClass.cpp
+END
+NpcTalk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/NpcTalk.cpp
+END
+AcceptIp.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/AcceptIp.h
+END
+CrywolfMonster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfMonster.cpp
+END
+Kanturu.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/Kanturu.h
+END
+CrywolfTanker.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfTanker.h
+END
+dirpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/dirpath.h
+END
+MapServerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/MapServerManager.h
+END
+CrywolfAltar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfAltar.cpp
+END
+TMonsterSkillManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillManager.h
+END
+DragonEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/DragonEvent.cpp
+END
+TDurMagicKeyChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/TDurMagicKeyChecker.cpp
+END
+ChaosCastleSetItemDrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/ChaosCastleSetItemDrop.h
+END
+GameServerAuth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/GameServerAuth.cpp
+END
+TServerInfoDisplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/TServerInfoDisplayer.cpp
+END
+EventManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/EventManagement.h
+END
+TMonsterAIAutomata.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIAutomata.h
+END
+SendHackLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/SendHackLog.h
+END
+AcceptIp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/AcceptIp.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/resource.h
+END
+logo.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/logo.bmp
+END
+MapItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/MapItem.cpp
+END
+Copy of QuestInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/Server/GameServer/Copy%20of%20QuestInfo.cpp
+END
+KalimaGate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/KalimaGate.cpp
+END
+DevilSquareGround.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/DevilSquareGround.cpp
+END
+MoveCheck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/MoveCheck.cpp
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/protocol.h
+END
+CWhatsUpDummyServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/CWhatsUpDummyServer.h
+END
+ChaosBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/ChaosBox.h
+END
+ItemSocketSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/46/trunk/Server/GameServer/ItemSocketSystem.cpp
+END
+KanturuTowerOfRefinement.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuTowerOfRefinement.h
+END
+TMonsterAIRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIRule.h
+END
+QuestInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/QuestInfo.h
+END
+MultiCheckSum.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/MultiCheckSum.h
+END
+DevilSquare.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/DevilSquare.cpp
+END
+KanturuBattleUserMng.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleUserMng.cpp
+END
+ClosePlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/ClosePlayer.h
+END
+TMonsterAIUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIUtil.h
+END
+CastleSiegeSync.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleSiegeSync.h
+END
+spe.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/46/trunk/Server/GameServer/spe.h
+END
+CastleSiege.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleSiege.h
+END
+LifeStone.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/LifeStone.h
+END
+TMonsterAIElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIElement.cpp
+END
+ObjAttack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/ObjAttack.cpp
+END
+CannonTower.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/CannonTower.h
+END
+KalimaGate.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/Server/GameServer/KalimaGate.h
+END
+KanturuMaya.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuMaya.h
+END
+ViewportGuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/ViewportGuild.h
+END
+GameEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/GameEvent.cpp
+END
+CastleCrownSwitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleCrownSwitch.h
+END
+KanturuBattleStanby.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleStanby.h
+END
+KanturuStateInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuStateInfo.h
+END
+WzMultiCastSock.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/46/trunk/Server/GameServer/WzMultiCastSock.h
+END
+logo1.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/logo1.bmp
+END
+TMonsterSkillUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillUnit.h
+END
+TUnion.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/TUnion.h
+END
+CManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/CManager.h
+END
+KanturuBattleOfMaya.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/46/trunk/Server/GameServer/KanturuBattleOfMaya.cpp
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/trunk/Server/GameServer/user.h
+END
+CastleCrown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleCrown.cpp
+END
+LifeStone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/46/trunk/Server/GameServer/LifeStone.cpp
+END
+CastleSiege.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/CastleSiege.cpp
+END
+Kanturu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/46/trunk/Server/GameServer/Kanturu.cpp
+END
+MonsterHerd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/MonsterHerd.cpp
+END
+TMonsterSkillInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterSkillInfo.h
+END
+SkillDelay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/46/trunk/Server/GameServer/SkillDelay.cpp
+END
+Weapon.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/46/trunk/Server/GameServer/Weapon.h
+END
+Guardian.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/trunk/Server/GameServer/Guardian.h
+END
+CCastleEventItemList.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/CCastleEventItemList.h
+END
+CrywolfObjInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/46/trunk/Server/GameServer/CrywolfObjInfo.h
+END
+TMonsterAIElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIElement.h
+END
+CashItemPeriodSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/Server/GameServer/CashItemPeriodSystem.cpp
+END
+ChaosCastleSetItemDrop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/46/trunk/Server/GameServer/ChaosCastleSetItemDrop.cpp
+END
+logproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/trunk/Server/GameServer/logproc.h
+END
+ChinaHackUserKick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Server/GameServer/ChinaHackUserKick.cpp
+END
+WzUdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/trunk/Server/GameServer/WzUdp.h
+END
+TMonsterAIAutomata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/46/trunk/Server/GameServer/TMonsterAIAutomata.cpp
+END
+TSkillElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/46/trunk/Server/GameServer/TSkillElement.h
+END

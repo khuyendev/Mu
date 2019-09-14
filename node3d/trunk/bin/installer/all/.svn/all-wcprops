@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/184/trunk/bin/installer/all
+END
+testpack.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/182/trunk/bin/installer/all/testpack.bat
+END
+agreement.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/182/trunk/bin/installer/all/agreement.txt
+END
+WizModernSmallImage.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/182/trunk/bin/installer/all/WizModernSmallImage.bmp
+END
+idr_main.ico
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/182/trunk/bin/installer/all/idr_main.ico
+END
+newmake.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/184/trunk/bin/installer/all/newmake.bat
+END
+lianyu-Setup-template.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/182/trunk/bin/installer/all/lianyu-Setup-template.nsi
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/182/trunk/bin/installer/all/license.txt
+END
+lianyu-Setup-template.iss
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/182/trunk/bin/installer/all/lianyu-Setup-template.iss
+END
+saveas.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/182/trunk/bin/installer/all/saveas.vbs
+END
+dds_Check.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/182/trunk/bin/installer/all/dds_Check.bat
+END
+dds.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/182/trunk/bin/installer/all/dds.bat
+END
+after.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/182/trunk/bin/installer/all/after.txt
+END
+before.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/182/trunk/bin/installer/all/before.txt
+END
+WizModernImage2.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/182/trunk/bin/installer/all/WizModernImage2.bmp
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/182/trunk/bin/installer/all/make.bat
+END

@@ -1,0 +1,131 @@
+10
+
+dir
+387
+http://node3d.googlecode.com/svn/trunk/3dgui/Freetype/src
+http://node3d.googlecode.com/svn
+
+
+
+2011-06-06T11:58:21.254004Z
+2
+huihui27@126.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+2d1ece96-c13f-8cac-2818-407c75b61fa3
+
+bdf
+dir
+
+pshinter
+dir
+
+gxvalid
+dir
+
+cff
+dir
+
+cid
+dir
+
+raster
+dir
+
+psaux
+dir
+
+tools
+dir
+
+type1
+dir
+
+otvalid
+dir
+
+cache
+dir
+
+psnames
+dir
+
+winfonts
+dir
+
+Jamfile
+file
+
+
+
+
+2016-02-13T04:31:49.432930Z
+d6db803dc8261ba9f3d158e7ff70ff01
+2011-06-06T11:58:21.254004Z
+2
+huihui27@126.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+783
+
+pcf
+dir
+
+smooth
+dir
+
+gzip
+dir
+
+sfnt
+dir
+
+base
+dir
+
+autofit
+dir
+
+lzw
+dir
+
+truetype
+dir
+
+type42
+dir
+
+pfr
+dir
+

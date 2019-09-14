@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/parser.h
+END
+scrpctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/scrpctrl.h
+END
+pathname.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/pathname.h
+END
+MXS_Editor_Interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/MXS_Editor_Interface.h
+END
+maxnurbs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/maxnurbs.h
+END
+arraypro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/arraypro.h
+END
+maxscrpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/maxscrpt.h
+END
+nurbssub.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/nurbssub.h
+END
+ole_auto.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/ole_auto.h
+END
+xrefspro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/xrefspro.h
+END
+defabsfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/defabsfn.h
+END
+objsets.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/objsets.h
+END
+mathpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/mathpro.h
+END
+hashtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/hashtab.h
+END
+phyrgpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/phyrgpro.h
+END
+numbers.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/numbers.h
+END
+biprops.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/biprops.h
+END
+funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/funcs.h
+END
+3dmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/3dmath.h
+END
+maxkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/maxkeys.h
+END
+mscustattrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/mscustattrib.h
+END
+max_cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/max_cmds.h
+END
+definsfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/definsfn.h
+END
+toolpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/toolpro.h
+END
+phyblpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/phyblpro.h
+END
+colorpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/colorpro.h
+END
+texmapro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/texmapro.h
+END
+shdtppro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/shdtppro.h
+END
+bipedpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/bipedpro.h
+END
+time_fns.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/time_fns.h
+END
+meshsub.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/meshsub.h
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/structs.h
+END
+ctbmapro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/ctbmapro.h
+END
+ctrlrpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/ctrlrpro.h
+END
+evalpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/evalpro.h
+END
+notespro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/notespro.h
+END
+boxpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/boxpro.h
+END
+nurbspro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/nurbspro.h
+END
+thunks.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/thunks.h
+END
+thrdlcls.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/thrdlcls.h
+END
+maxclses.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/maxclses.h
+END
+creatpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/creatpro.h
+END
+lclextfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/lclextfn.h
+END
+rollouts.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/rollouts.h
+END
+strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/strings.h
+END
+wirectrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/wirectrl.h
+END
+pipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/pipe.h
+END
+streampr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/streampr.h
+END
+lclclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/lclclass.h
+END
+phymcpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/phymcpro.h
+END
+matpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/matpro.h
+END
+lclimpfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/lclimpfn.h
+END
+bmatpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/bmatpro.h
+END
+classids.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/classids.h
+END
+excepts.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/excepts.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/value.h
+END
+bitmapro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/bitmapro.h
+END
+strngpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/strngpro.h
+END
+mxsctrlr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/mxsctrlr.h
+END
+mszippackage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/mszippackage.h
+END
+name.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/name.h
+END
+vectpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/vectpro.h
+END
+lclabsfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/lclabsfn.h
+END
+listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/listener.h
+END
+IMXSDebugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/IMXSDebugger.h
+END
+atmspro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/atmspro.h
+END
+sceneio.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/sceneio.h
+END
+collect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/collect.h
+END
+defabs21.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/defabs21.h
+END
+evalprms.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/evalprms.h
+END
+corename.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/corename.h
+END
+codetree.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/codetree.h
+END
+quatpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/quatpro.h
+END
+kernlpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/kernlpro.h
+END
+mstime.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/mstime.h
+END
+msplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/msplugin.h
+END
+bitmaps.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/bitmaps.h
+END
+namedset.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/namedset.h
+END
+arrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/arrays.h
+END
+excepinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/excepinf.h
+END
+defextfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/defextfn.h
+END
+nodepro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/nodepro.h
+END
+lclinsfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/lclinsfn.h
+END
+maxmats.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/maxmats.h
+END
+ivisualms.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/ivisualms.h
+END
+scripted.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/scripted.h
+END
+streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/streams.h
+END
+timepro.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/timepro.h
+END
+maxobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/maxobj.h
+END
+colorval.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/colorval.h
+END
+uiextend.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/uiextend.h
+END
+mousetool.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/mousetool.h
+END
+colctble.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/colctble.h
+END
+defimpfn.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/defimpfn.h
+END
+prims.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/prims.h
+END
+objpro.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/tool/maxsdk/include/maxscrpt/objpro.h
+END

@@ -1,0 +1,66 @@
+﻿  cl : Command line warning D9035 : option 'Gm' has been deprecated and will be removed in a future release
+  protocol.cpp
+  World.cpp
+D:\Source Client D3D9\node3d\trunk\Client\Client\ClientNetWork.h(5,10): error C1083:  Cannot open include file: 'NetWork.h': No such file or directory
+  UIIcon.cpp
+D:\Source Client D3D9\node3d\trunk\engine\EngineCore\include\iScene.h(2,10): error C1083:  Cannot open include file: 'Vec4D.h': No such file or directory
+  UIGeneralDialog.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  UIDisplayWorld.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  UIDisplayModel.cpp
+D:\Source Client D3D9\node3d\trunk\engine\RenderSystem\include\Shader.h(2,10): error C1083:  Cannot open include file: 'Matrix.h': No such file or directory
+  UIChatList.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  Role.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  Res.cpp
+D:\Source Client D3D9\node3d\trunk\engine\RenderSystem\include\RenderSystemCommon.h(2,10): error C1083:  Cannot open include file: 'Vec2D.h': No such file or directory
+  RPGSkyUIGraph.cpp
+D:\Source Client D3D9\node3d\trunk\Client\Client\Res.h(7,10): error C1083:  Cannot open include file: 'TSingleton.h': No such file or directory
+  RPGSkyTextRender.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  PlayerMe.cpp
+D:\Source Client D3D9\node3d\trunk\engine\RenderSystem\include\Shader.h(2,10): error C1083:  Cannot open include file: 'Matrix.h': No such file or directory
+  Npc.cpp
+D:\Source Client D3D9\node3d\trunk\engine\RenderSystem\include\RenderSystemCommon.h(2,10): error C1083:  Cannot open include file: 'Vec2D.h': No such file or directory
+  Monster.cpp
+D:\Source Client D3D9\node3d\trunk\engine\RenderSystem\include\RenderSystemCommon.h(2,10): error C1083:  Cannot open include file: 'Vec2D.h': No such file or directory
+  MainRoot.cpp
+D:\Source Client D3D9\node3d\trunk\engine\RenderSystem\include\RenderSystemCommon.h(2,10): error C1083:  Cannot open include file: 'Vec2D.h': No such file or directory
+  Main.cpp
+D:\Source Client D3D9\node3d\trunk\Client\Client\ClientNetWork.h(5,10): error C1083:  Cannot open include file: 'NetWork.h': No such file or directory
+  GlobalFunction.cpp
+D:\Source Client D3D9\node3d\trunk\engine\RenderSystem\include\Shader.h(2,10): error C1083:  Cannot open include file: 'Matrix.h': No such file or directory
+  DlgWorld.cpp
+D:\Source Client D3D9\node3d\trunk\Client\Client\ClientNetWork.h(5,10): error C1083:  Cannot open include file: 'NetWork.h': No such file or directory
+  DlgTarget.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgShortcuts.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  Generating Code...
+  Compiling...
+  DlgServerList.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgMinMap.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgMessageBox.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgMap.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgMain.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgLogin.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgChatMessage.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgChat.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgCharList.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  DlgCharCreate.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  ClientNetWork.cpp
+D:\Source Client D3D9\node3d\trunk\3dgui\3dgui\include\UIStyle.h(7,10): error C1083:  Cannot open include file: 'Color.h': No such file or directory
+  Generating Code...
+D:\Source Client D3D9\node3d\trunk\Client\Client\ClientNetWork.h(5,10): error C1083:  Cannot open include file: 'NetWork.h': No such file or directory

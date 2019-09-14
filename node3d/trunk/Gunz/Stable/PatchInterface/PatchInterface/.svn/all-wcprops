@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface
+END
+ReloadServerConfigDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/ReloadServerConfigDlg.h
+END
+Keeper.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Keeper.h
+END
+MPatchCRCMaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/MPatchCRCMaker.cpp
+END
+PatchInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/PatchInterface.h
+END
+Keeper_Response.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Keeper_Response.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/stdafx.cpp
+END
+MServerInfoDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/MServerInfoDlg.h
+END
+MScheduleMaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/MScheduleMaker.h
+END
+ReportCtrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/ReportCtrl.cpp
+END
+PatchInterface.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/PatchInterface.vcproj
+END
+Patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Patch.h
+END
+Keeper_OnCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Keeper_OnCommand.cpp
+END
+KeeperManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/KeeperManager.cpp
+END
+ReloadServerConfigDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/ReloadServerConfigDlg.cpp
+END
+Keeper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Keeper.cpp
+END
+Announce.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Announce.h
+END
+PatchInterfaceDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/PatchInterfaceDlg.h
+END
+PatchInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/PatchInterface.cpp
+END
+MServerInfoDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/MServerInfoDlg.cpp
+END
+MScheduleMaker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/MScheduleMaker.cpp
+END
+MPatchCRCMaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/MPatchCRCMaker.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/ReadMe.txt
+END
+Resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Resource.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/stdafx.h
+END
+진행 내용.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/%EC%A7%84%ED%96%89%20%EB%82%B4%EC%9A%A9.txt
+END
+Patch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Patch.cpp
+END
+PatchInterface.rc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/PatchInterface.rc
+END
+ReportCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/ReportCtrl.h
+END
+Announce.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Announce.cpp
+END
+PatchInterfaceDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/PatchInterfaceDlg.cpp
+END
+KeeperManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/KeeperManager.h
+END
+Announce.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/246/trunk/Gunz/Stable/PatchInterface/PatchInterface/Announce.htm
+END

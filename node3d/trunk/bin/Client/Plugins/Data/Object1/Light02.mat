@@ -1,0 +1,7 @@
+[m0]
+shader=NULL
+
+[p0]
+bone=0
+par=fog.par
+pos=0,0.4,0

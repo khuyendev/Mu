@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble
+END
+NMCrypt_MD.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble/NMCrypt_MD.lib
+END
+NMCrypt_MT.lib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble/NMCrypt_MT.lib
+END
+NMCrypt.lib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble/NMCrypt.lib
+END
+NMCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble/NMCrypt.h
+END
+NMCrypt_d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble/NMCrypt_d.lib
+END
+NMCrypt_MTd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble/NMCrypt_MTd.lib
+END
+NMCrypt_MDd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/250/trunk/Gunz/Stable/Gunz/extern/Netmarble/NMCrypt_MDd.lib
+END
